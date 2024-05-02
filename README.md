@@ -9,8 +9,6 @@ You will need an OpenAI (ChatGPT) account to be able to run this code. Just repl
 
 We use prompts to extract the norms. Prompts can be found under the 'prompt' folder.
 
-### Analysis
-
 #### Dataset
 
 The 'dataset' folder contains the sampled clauses. 
