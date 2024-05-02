@@ -1,0 +1,10 @@
+Given a sentence from a contract (between two parties), extract norms (along with associated clauses) for better contract understanding.
+A Norm specifies the expectations from parties involved in the contract in terms of their behavior and actions. Norms are moral and (or) ethical principles that govern a contract. 
+In cases where more than one norm exists, extract all norms and related clauses separately.
+Identify the 5 clauses (defined below).
+1. Norm type: Describes the purpose of the identified clauses. Norm types can be 'authorization,' 'power,' 'commitment,' and 'prohibition.' 'Authorization' norm type provides authority to the concerned parties to perform certain actions. 'Power' norm type empowers contracting parties with more powers.  'Commitment' norm type describes actions of committing to certain behaviours or actions. 'Prohibition' norm type describes prohibitions on certain actions and behaviors.
+2. Subject: The party making the commitment or the debtor obliged to fulfill. 
+3. Object: The party affected (on benefitted) by the outcome of the actions, or the creditor (i.e., beneficiary) 
+4. Antecedent: The Condition to make the consequences possible or the conditions on which the actions depend. 
+5. Consequent: The consequence of the described actions.
+The contract sentence is as follows:

@@ -1,0 +1,325 @@
+Filename (CUAD Dataset),Sentence,GPT-3.5 Extracted Norms,Author comments
+EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement.pdf,"Notwithstanding any other provision of this Agreement, Rogers may terminate this Agreement, at any time, upon sixty (60) days' prior written notice to Licensor.","1. Norm type: authorization
+2. Subject: Rogers
+3. Object: Licensor
+4. Antecedent: Rogers providing sixty (60) days' prior written notice
+5. Consequent: termination of the Agreement",
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf,"ETON has the right to terminate this Agreement after approval of the Dossier or marketing application for the Product (or added new product), at its sole discretion, upon providing one hundred eighty (180) days' written notice to Aucta.","Norm 1:
+1. Norm type: Power
+2. Subject: ETON
+3. Object: Aucta
+4. Antecedent: Approval of the Dossier or marketing application for the Product (or added new product)
+5. Consequent: Termination of the Agreement
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: ETON
+3. Object: Aucta
+4. Antecedent: Approval of the Dossier or marketing application for the Product (or added new product)
+5. Consequent: Providing one hundred eighty (180) days' written notice","- Norm 1 type incorrect (should be authorization)
+- Norm 2 incorrect (no commitment in the clause. Further, consequent is incorrect too) "
+CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement.pdf,"This Agreement may be terminated by Nuance at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms.","Norm 1:
+1. Norm type: Power
+2. Subject: Nuance
+3. Object: Distribution
+4. Antecedent: Prior to the Distribution
+5. Consequent: Termination of the Agreement
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Nuance
+3. Object: Separation Agreement
+4. Antecedent: Termination of the Separation Agreement in accordance with its terms
+5. Consequent: Automatic termination of this Agreement","- Incorrect object in both norms
+- Incorrect norm type commitment (may indicates authorization and not commitment)."
+ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf,"Either Party may terminate the Project and all commitments and obligations with respect thereto, subject to Section 8.3 herein, upon thirty (30) days written notice to the other Party.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Either Party
+3. Object: the other Party
+4. Antecedent: thirty (30) days written notice
+5. Consequent: termination of the Project and all commitments and obligations with respect thereto
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Either Party
+3. Object: the other Party
+4. Antecedent: Section 8.3 herein
+5. Consequent: termination of the Project and all commitments and obligations with respect thereto","- Incorrect norm type commitment (may indicates authorization and not commitment).
+- Should there even be 2 norms? (or one norm with conjunction (AND))"
+ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf,This Agreement may be terminated by ArTara upon thirty (30) days prior written notice to University.,"Norm 1:
+1. Norm type: Power
+2. Subject: ArTara
+3. Object: University
+4. Antecedent: Thirty (30) days prior written notice
+5. Consequent: Termination of the Agreement
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: University
+3. Object: ArTara
+4. Antecedent: Thirty (30) days prior written notice
+5. Consequent: Acceptance of termination of the Agreement","- Commitment norm is redundant, but it's interesting that the model inferred it."
+VirtuosoSurgicalInc_20191227_1-A_EX1A-6 MAT CTRCT_11933379_EX1A-6 MAT CTRCT_License Agreement.pdf,"COMPANY will pay JHU a fee equal one percent (1%) of the Aggregate Consideration received by the COMPANY, or the total amount received by stockholders of COMPANY, upon the occurrence of a Liquidity Event.","Norm 1:
+1. Norm type: Commitment
+2. Subject: COMPANY
+3. Object: JHU
+4. Antecedent: Occurrence of a Liquidity Event
+5. Consequent: COMPANY will pay JHU a fee equal to one percent (1%) of the Aggregate Consideration received by the COMPANY, or the total amount received by stockholders of COMPANY. 
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: JHU
+3. Object: COMPANY
+4. Antecedent: Occurrence of a Liquidity Event
+5. Consequent: JHU is authorized to receive a fee equal to one percent (1%) of the Aggregate Consideration received by the COMPANY, or the total amount received by stockholders of COMPANY.","- Authorization is redundant (Similar to the previous case)
+- Consequent includes the subject and object (along with most of the sentence)  "
+VertexEnergyInc_20200113_8-K_EX-10.1_11943624_EX-10.1_Marketing Agreement.pdf,A Party may terminate the JSMA immediately upon the delivery of written notice to the other Party if there has been a Change in Control.,"Norm 1:
+1. Norm type: Authorization
+2. Subject: A Party
+3. Object: the other Party
+4. Antecedent: Change in Control
+5. Consequent: Termination of the JSMA
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: A Party
+3. Object: the other Party
+4. Antecedent: Change in Control
+5. Consequent: Termination of the JSMA","- Commitment norm is redundant (similar to previous 2 cases)
+- 'upon the delivery of written notice' is not captured in the antecedent"
+MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT.PDF,"Franchisee  agrees to notify the  telephone  company and all  telephone directory  publishers of the termination or expiration of Franchisee's  right to use any  telephone  and telecopy  numbers and any regular,  classified  or other telephone  directory  listings  associated  with any Mark and to  authorize  the transfer  thereof to Pretzel Time or at its direction.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Franchisee
+3. Object: Telephone company and all telephone directory publishers
+4. Antecedent: Termination or expiration of Franchisee's right to use any telephone and telecopy numbers and any regular, classified or other telephone directory listings associated with any Mark
+5. Consequent: Transfer thereof to Pretzel Time or at its direction
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Franchisee
+3. Object: Telephone company and all telephone directory publishers
+4. Antecedent: Termination or expiration of Franchisee's right to use any telephone and telecopy numbers and any regular, classified or other telephone directory listings associated with any Mark
+5. Consequent: Notify the telephone company and all telephone directory publishers",- Both identified norms are correct
+MOELIS&CO_03_24_2014-EX-10.19-STRATEGIC ALLIANCE AGREEMENT.PDF,"Following the expiration of such 10-day period, the Partner proposing to sell or transfer Partnership Interests shall have one hundred and eighty- (180-) days to sell or transfer, or enter into an agreement to sell or transfer the Partnership Interests with respect to which SMBC 's right under Section 12.3(a) was not exercised, at a price and upon terms no more favorable to the purchasers of such securities than specified in the Partner's notice.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Partner proposing to sell or transfer Partnership Interests
+3. Object: SMBC
+4. Antecedent: Expiration of the 10-day period
+5. Consequent: Partner shall have 180 days to sell or transfer Partnership Interests
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Partner proposing to sell or transfer Partnership Interests
+3. Object: SMBC
+4. Antecedent: Expiration of the 10-day period
+5. Consequent: Partner commits to selling or transferring Partnership Interests within 180 days at specified terms
+
+Norm 3:
+1. Norm type: Prohibition
+2. Subject: Partner proposing to sell or transfer Partnership Interests
+3. Object: SMBC
+4. Antecedent: Expiration of the 10-day period
+5. Consequent: Partner is forbidden from selling or transferring Partnership Interests at terms more favorable than specified in the notice.","- Good norm extraction
+- ChatGPT infers the Prohibition norm"
+INTERNATIONALFASTFOODCORP_04_04_1997-EX-99-FRANCHISE AGREEMENT.PDF,"The  Franchisee  grants  to  BKC  or  its designee  upon  termination  or  expiration  of this  Agreement,  the  option to purchase all usable paper goods, containers and printed menus bearing any of the Burger  King  Marks or trade  names at the price paid by the  Franchisee  and to purchase the Franchisee's restaurant equipment, furniture, fixtures and signs at fair market value.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Franchisee
+3. Object: BKC or its designee
+4. Antecedent: Termination or expiration of the Agreement
+5. Consequent: Option to purchase all usable paper goods, containers, printed menus bearing Burger King Marks or trade names at the price paid by the Franchisee
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Franchisee
+3. Object: BKC or its designee
+4. Antecedent: Termination or expiration of the Agreement
+5. Consequent: Option to purchase Franchisee's restaurant equipment, furniture, fixtures, and signs at fair market value.","- Good job with breaking the conjunction (AND) into two norms
+- The DIrectionality of the authorization is incorrect (i.e., subject and object are interchanged). Object authorizes the subject and not the other way around"
+DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding Agreement_ Service Agreement.pdf,"The term of this Agreement shall be effective as of the date first stated above and shall continue for a term of three (3) years, unless terminated earlier in accordance with the provisions of this Agreement (the ""Term""); provided, however, that PrimeCall may elect to terminate this Agreement, upon thirty (30) days' written notice, at any time from and after the time that collectively RSL Communications, Ltd. and/or its Affiliates holds less than fifty percent (50%) of the voting control of DeltaThree's outstanding shares.","Norm 1:
+1. Norm type: commitment
+2. Subject: PrimeCall
+3. Object: RSL Communications, Ltd. and/or its Affiliates
+4. Antecedent: collectively RSL Communications, Ltd. and/or its Affiliates holds less than fifty percent (50%) of the voting control of DeltaThree's outstanding shares
+5. Consequent: termination of the Agreement
+
+Norm 2:
+1. Norm type: authorization
+2. Subject: PrimeCall
+3. Object: RSL Communications, Ltd. and/or its Affiliates
+4. Antecedent: collectively RSL Communications, Ltd. and/or its Affiliates holds less than fifty percent (50%) of the voting control of DeltaThree's outstanding shares
+5. Consequent: termination of the Agreement
+
+Norm 3:
+1. Norm type: commitment
+2. Subject: RSL Communications, Ltd. and/or its Affiliates
+3. Object: PrimeCall
+4. Antecedent: collectively RSL Communications, Ltd. and/or its Affiliates holds less than fifty percent (50%) of the voting control of DeltaThree's outstanding shares
+5. Consequent: continuation of the Agreement for the specified term of three (3) years
+
+Norm 4:
+1. Norm type: power
+2. Subject: PrimeCall
+3. Object: RSL Communications, Ltd. and/or its Affiliates
+4. Antecedent: termination of the Agreement by PrimeCall upon thirty (30) days' written notice
+5. Consequent: termination of the Agreement","- Norm 1 is incorrect (and redundant, i.e., same as norm 2 but with incorrect norm type). This is due to the use of 'may', which makes it authorization rather than commitment."
+MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement.pdf,"Nothwithstanding the foregoing, this Agreement may be assigned without the AS Parties' consent by MusclePharm in connection with a change of control transaction; provided that the acquirer of MusclePharm shall have financial resources substantially similar or greater than MusclePharm and shall specifically assume the obligations of MusclePharm under this Agreement in writing prior to the consummation of the change of control transaction.","Norm 1:
+1. Norm type: Authorization
+2. Subject: MusclePharm
+3. Object: AS Parties
+4. Antecedent: The acquirer of MusclePharm shall have financial resources substantially similar or greater than MusclePharm
+5. Consequent: The acquirer of MusclePharm shall specifically assume the obligations of MusclePharm under this Agreement in writing prior to the consummation of the change of control transaction.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: MusclePharm
+3. Object: AS Parties
+4. Antecedent: None explicitly stated
+5. Consequent: MusclePharm commits to ensuring that the acquirer of MusclePharm specifically assumes the obligations of MusclePharm under this Agreement in writing prior to the consummation of the change of control transaction.","- Incorrect consequent in Norm 1 (authorization is about the assignment of agreement).
+- Conjunction (and) not correctly parsed in norm 1 (should be included in the antecedent)
+- Norm 2 is unnecessary (provided norm 1 is correctly extracted), i.e., the sentence only has an authorization norm explicitly stated (though it is possible to break a norm into multiple)"
+TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement.pdf,"Notwithstanding the foregoing, Skype or Skype Holding may assign this Agreement to a third party without such consent in the event of a merger, reorganization or sale of all or substantially all of Skype's or Skype Holding's assets or voting securities, provided that written notice of such assignment is delivered to Online BVI and the Company and the assignee assumes all the responsibilities and obligations provided herein.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Skype or Skype Holding
+3. Object: Online BVI and the Company
+4. Antecedent: Merger, reorganization, or sale of all or substantially all of Skype's or Skype Holding's assets or voting securities
+5. Consequent: Written notice of assignment is delivered to Online BVI and the Company, and the assignee assumes all responsibilities and obligations provided in the Agreement.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Skype or Skype Holding
+3. Object: Online BVI and the Company
+4. Antecedent: Merger, reorganization, or sale of all or substantially all of Skype's or Skype Holding's assets or voting securities
+5. Consequent: Skype or Skype Holding commits to assigning the Agreement to a third party without consent, provided written notice is delivered to Online BVI and the Company, and the assignee assumes all responsibilities and obligations provided in the Agreement.","- Consequent incorrect in Norm 1
+- Norm 2 type incorrect (should be authorization)"
+EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement.pdf,"Notwithstanding the foregoing, each Party may assign the rights and obligations under this Agreement in whole, without consent of the other Party, to a Third Party or Affiliate in connection with the transfer or sale of all or substantially all of its business or in the event of a merger, consolidation or change in control provided that the assignee assumes in writing and becomes directly obligated to the other Party to perform all of the obligations of assignor under this Agreement.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Each Party
+3. Object: Third Party or Affiliate
+4. Antecedent: Assignment of rights and obligations under the Agreement in connection with the transfer or sale of business, merger, consolidation, or change in control
+5. Consequent: The assignee assumes in writing and becomes directly obligated to perform all obligations of the assignor under the Agreement.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Assignee
+3. Object: Other Party
+4. Antecedent: Assignment of rights and obligations under the Agreement in connection with the transfer or sale of business, merger, consolidation, or change in control
+5. Consequent: The assignee becomes directly obligated to perform all obligations of the assignor under the Agreement.","- Incorrect object in Norm 1 (should be 'the other party(ies)')
+- Norm 2 type incorrect (norm discussed in the clause is authorization)
+
+- Impressive rephrasing (shortenning) of antecedent in norm 1
+- Consequent refers to assignee and assignor, and not subject and object (or could just leave it out)
+"
+NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement.pdf,"For a period of six (6) months at the end of the Term (the ""Sell-off Period""); provided that the Agreement was not terminated by Wade as permitted herein, Naked will have the right to continue to sell the Wade Products (defined below) for which orders have already been placed at the end of the Term on the terms and conditions herein.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Naked
+3. Object: Wade
+4. Antecedent: The Agreement was not terminated by Wade as permitted herein
+5. Consequent: Naked will have the right to continue to sell the Wade Products for which orders have already been placed at the end of the Term on the terms and conditions herein.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Wade
+3. Object: Naked
+4. Antecedent: The Agreement was not terminated by Wade as permitted herein
+5. Consequent: Wade will not terminate the Agreement, allowing Naked to continue selling the Wade Products for which orders have already been placed at the end of the Term on the terms and conditions herein.",- Norm 2 is inferred (somewhat redundant given norm 1)
+ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf,"Richard Smith, MD will be given first consideration as a principal investigator for all new Product or Product- related clinical studies, in addition to other sites provided final site selection will be based on the best interest of the Project.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Richard Smith, MD
+3. Object: Other sites
+4. Antecedent: Richard Smith, MD being given first consideration as a principal investigator for all new Product or Product-related clinical studies
+5. Consequent: Final site selection will be based on the best interest of the Project
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Other sites
+3. Object: Richard Smith, MD
+4. Antecedent: Final site selection being based on the best interest of the Project
+5. Consequent: Giving Richard Smith, MD first consideration as a principal investigator for all new Product or Product-related clinical studies","- Norm 1 is incorrect (incorrect object, incorrect antecedent, and incorrect  consequent) (the clause has no authorization norm)
+- Incorrect object in Norm 1
+- Incorrect subject in Norm 2
+"
+PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement.pdf,"This Agreement shall be in effect until March 18. 2021, unless sooner terminated by either party upon (30) days written notice, without cause.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Either party
+3. Object: Either party
+4. Antecedent: Written notice of termination
+5. Consequent: Termination of the Agreement
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Either party
+3. Object: Either party
+4. Antecedent: Written notice of termination
+5. Consequent: Termination of the Agreement
+
+Norm 3:
+1. Norm type: Power
+2. Subject: Either party
+3. Object: Either party
+4. Antecedent: Termination of the Agreement
+5. Consequent: End of the Agreement period","- Poor extraction from a simple sentence
+- Crucial details overlooked (e.g., date and 30-day notice)
+- Norm 1 and 2 elements are the same, except that they are different norm types
+- Norm 3 is unnecessary "
+2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement.pdf,"Notwithstanding the foregoing, unless this Agreement was terminated for a material breach, all provisions of this Agreement shall survive to the extent necessary for i-Escrow to complete any Customer transactions which are pending at the time of expiration or termination.","Norm 1:
+1. Norm type: Commitment
+2. Subject: i-Escrow
+3. Object: Customer
+4. Antecedent: Agreement not terminated for a material breach
+5. Consequent: All provisions of the Agreement shall survive to complete pending Customer transactions. 
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: i-Escrow
+3. Object: Customer
+4. Antecedent: Agreement not terminated for a material breach
+5. Consequent: i-Escrow authorized to complete pending Customer transactions.",- object incorrect in both norms
+HfEnterprisesInc_20191223_S-1_EX-10.22_11931299_EX-10.22_Development Agreement.pdf,The rights of Developer under this Agreement shall immediately cease and be terminated upon the sale or transfer of all or substantially all of the assets of Developer unless an assignment of such rights pursuant to such sale or transfer has been previously approved in writing by DSS.,"Norm 1:
+1. Norm type: Prohibition
+2. Subject: Developer
+3. Object: Developer
+4. Antecedent: Sale or transfer of all or substantially all of the assets of Developer
+5. Consequent: Rights of Developer under the Agreement shall immediately cease and be terminated
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: DSS
+3. Object: Developer
+4. Antecedent: Assignment of rights pursuant to sale or transfer
+5. Consequent: Approval in writing by DSS","- Both Norms are incorrect
+- Norm 1 has the same object and subject
+- Norm 2 all elements incorrect"
+LiquidmetalTechnologiesInc_20200205_8-K_EX-10.1_11968198_EX-10.1_Development Agreement.pdf,Either Party may terminate this Agreement for any reason upon providing 180 days prior written notice to the other Party prior to the expiration of the then-current term or unless sooner terminated in accordance with the terms of this Agreement.,"Norm 1:
+1. Norm type: Authorization
+2. Subject: Either Party
+3. Object: the other Party
+4. Antecedent: providing 180 days prior written notice to the other Party prior to the expiration of the then-current term
+5. Consequent: termination of the Agreement
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Either Party
+3. Object: the other Party
+4. Antecedent: termination in accordance with the terms of this Agreement
+5. Consequent: termination of the Agreement",
+"VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF",VS shall not refer that opportunity to any other third party provider unless PPD declines to bid on such opportunity or does not offer the service in question.,"1. Norm types: 
+- Prohibition
+- Commitment
+
+2. Subject: 
+- VS (Vendor Services)
+
+3. Object: 
+- Any other third party provider
+
+4. Antecedent: 
+- PPD declines to bid on such opportunity or does not offer the service in question
+
+5. Consequent: 
+- VS shall not refer that opportunity to any other third party provider","- Case of hallucination (Full form for VS isn't provided, but ChatGPT infers)
+- 2 norm types identified (for the same norm)"
+"VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT.PDF","Unless otherwise required by a particular Sponsor, PPD shall not refer that opportunity to any other third party provider unless VS declines to bid on such opportunity or does not offer the service in question.","1. Norm type: prohibition
+2. Subject: PPD
+3. Object: any other third party provider
+4. Antecedent: VS declines to bid on such opportunity or does not offer the service in question
+5. Consequent: PPD shall not refer that opportunity to any other third party provider",

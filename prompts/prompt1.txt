@@ -1,0 +1,13 @@
+Given a sentence from a contract (between two parties), extract norms (along with associated clauses) for better contract understanding.
+A Norm specifies the expectations from parties involved in the contract in terms of their behavior and actions. Norms are moral and (or) ethical principles that govern a contract. 
+A norm is directed from a subject (the party on whom the norm applies) to an object (the party with respect to whom the norm applies) and is constructed as a conditional relationship involving an antecedent (which brings the norm into force, i.e., the condition on which the action of the subject depends) and a consequent (which brings the norm to satisfaction, i.e., the outcomes of the action). 
+A norm can be one of the following four types: (a) A commitment means that its subject commits to its object to ensure the consequent if the antecedent holds. (b) A prohibition means that its subject is forbidden by its object from bringing about the consequent if the antecedent holds. (c) An authorization means that its object authorizes its subject to bring about the consequent if the antecedent holds. (d) A power means that its subject is empowered by its object to bring about the consequent if the antecedent holds. 
+The norm types of authorization and power are similar; however, some differences exist.  Authorization allows the subject to bring about the consequent (provided it doesn't violate some other norm), whereas power empowers the subject to bring about the consequent even when that causes a change in the existing normative relationship.  For example, in a manufacturing contract, the purchaser may cancel an order with prior notice, i.e., it can terminate a commitment at will, thereby changing the normative relationship between itself and the manufacturer.
+In cases where more than one norm exists, extract all norms and related clauses separately.
+Identify each clause (defined below) for every norm identified.
+1. Norm type: Describes the purpose of the identified clauses. Norm types can be 'authorization,' 'power,' 'commitment,' and 'prohibition' and are described earlier in this prompt
+2. Subject: The debtor or the party that is empowered, prohibited, authorized, or commits in the norm
+3. Object: The creditor or the beneficiary of the norm
+4. Antecedent: The condition which brings the norm in force (pre-conditions that make the consequent of a norm possible or the conditions on which the actions of the parties depend). 
+5. Consequent: The outcomes that bring the norm to satisfaction (the outcomes or consequence if the norm holds or is executed).
+The contract sentence is as follows:

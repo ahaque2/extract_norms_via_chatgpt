@@ -1,0 +1,1033 @@
+,Unnamed: 0,sent,gpt_extracted_norms
+0,0,"Franchisee agrees to return all materials and supplies identified by the Marks in full cases or  packages  to Pretzel  Time for credit and dispose of all other materials and supplies, but not equipment,  identified by the Marks within thirty (30) days after the effective  date of  termination or expiration of this Agreement.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Franchisee
+3. Object: Pretzel Time
+4. Antecedent: Effective date of termination or expiration of the Agreement
+5. Consequent: Return all materials and supplies identified by the Marks in full cases or packages to Pretzel Time for credit and dispose of all other materials and supplies (excluding equipment) identified by the Marks within thirty (30) days.
+
+Norm 2:
+1. Norm type: Prohibition
+2. Subject: Franchisee
+3. Object: Pretzel Time
+4. Antecedent: Effective date of termination or expiration of the Agreement
+5. Consequent: Not to dispose of equipment identified by the Marks after the effective date of termination or expiration of the Agreement."
+1,1,"To the extent any Development owned by Life Technologies relates directly to the practice of, or constitutes an improvement to, the Assay, Life Technologies hereby grants to Biocept, during the Term of this Agreement, and, except in the case of termination of this Agreement by Life Technologies for Biocept's uncured material breach, after expiration or termination of this Agreement, a non-exclusive, worldwide, royalty-free, fully-paid license, including the right to sublicense, under Life Technologies' Intellectual Property Rights in such Developments, solely to develop, make, have made, use, sell, have sold, offer for sale, import, perform and provide the Assay.","1. Norm type: authorization
+2. Subject: Life Technologies
+3. Object: Biocept
+4. Antecedent: Development owned by Life Technologies relating directly to the practice of, or constituting an improvement to, the Assay
+5. Consequent: granting a non-exclusive, worldwide, royalty-free, fully-paid license, including the right to sublicense, under Life Technologies' Intellectual Property Rights in such Developments, solely to develop, make, have made, use, sell, have sold, offer for sale, import, perform and provide the Assay. 
+
+2. Norm type: commitment
+2. Subject: Biocept
+3. Object: Life Technologies
+4. Antecedent: Term of the Agreement
+5. Consequent: abiding by the terms of the non-exclusive, worldwide, royalty-free, fully-paid license granted by Life Technologies under their Intellectual Property Rights in the Developments related to the Assay."
+2,2,"Each Party shall maintain complete, current and accurate records of all Development activities conducted by it hereunder, and all data and other information resulting from such activities, for at least [***] after the expiration or termination of this Agreement in its entirety or for such longer period as may be required by Applicable Law.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Each Party
+3. Object: -
+4. Antecedent: Conducting Development activities
+5. Consequent: Maintaining complete, current, and accurate records
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Each Party
+3. Object: -
+4. Antecedent: Conducting Development activities
+5. Consequent: Maintaining data and other information for a specified period
+
+Norm 3:
+1. Norm type: Commitment
+2. Subject: Each Party
+3. Object: Applicable Law
+4. Antecedent: Expiration or termination of the Agreement
+5. Consequent: Maintaining records for a longer period as required by law"
+3,3,Either party may terminate this Agreement by providing [*] month's written       notice to the other.,"1. Norm type: authorization
+2. Subject: Either party
+3. Object: the other party
+4. Antecedent: providing [*] month's written notice
+5. Consequent: termination of the Agreement"
+4,4,"If Pfizer and Exact are unable to reach agreement on the terms of such Product rights within forty-five (45) days of the commencement of negotiations, then Exact shall be free to enter into negotiations and consummate an agreement with any Third Party regarding such OB/Gyn Commercial Rights; provided that the economic terms of such agreement shall be no more favorable to such Third Party than those last offered to Pfizer.","1. Norm type: authorization
+2. Subject: Pfizer
+3. Object: Exact
+4. Antecedent: Pfizer and Exact are unable to reach agreement on the terms of Product rights within forty-five (45) days of the commencement of negotiations
+5. Consequent: Exact shall be free to enter into negotiations and consummate an agreement with any Third Party regarding OB/Gyn Commercial Rights"
+5,5,Either Party shall be entitled forthwith to terminate this Agreement by notice to the other if:<omitted>(i) the other Party ceases or threatens to cease to carry on the whole or any material part of its business;,"1. Norm type: commitment
+2. Subject: Either Party
+3. Object: the other Party
+4. Antecedent: the other Party ceases or threatens to cease to carry on the whole or any material part of its business
+5. Consequent: termination of the Agreement"
+6,6,"At the end of the sell-off period set forth in Section 12.3(c)(iii), Sanofi shall transfer to RevMed any and all inventory of SHP2 Inhibitors and Termination Products (including all research materials, final product, bulk drug substance, intermediates, work-in-process, formulation materials, reference standards, drug product clinical reserve samples, packaged retention samples, and the like) then in the possession of Sanofi, its Affiliates or Sublicensees, and continue or have continued any ongoing stability studies pertaining to any materials so transferred to RevMed for a reasonable period of time until RevMed can assume responsibility for such activities","1. Norm type: commitment
+2. Subject: Sanofi
+3. Object: RevMed
+4. Antecedent: End of the sell-off period set forth in Section 12.3(c)(iii)
+5. Consequent: Transfer of inventory of SHP2 Inhibitors and Termination Products to RevMed, continuation of ongoing stability studies for a reasonable period of time"
+7,7,"Accordingly, neither this Agreement nor any part of your interest in it, nor any Interest (as defined in Paragraph 14.2) of Franchise Owner or a Principal Owner, may be transferred (see definition below) without our advance written approval if such transfer will result in the Principal Owner(s) set forth in Exhibit 4 holding less than a seventy-five percent (75%) Interest in Franchise Owner.<omitted>As used in this Agreement the term ""Transfer"" means any voluntary, involuntary, direct or indirect assignment, sale, gift, exchange, grant of a security interest, or occurrence of any other event which would or might change the ownership of any Interest, and includes, without limitation: (1) the Transfer of ownership of capital stock, partnership interest or other ownership interest (including the granting of options (such as stock options or any option which give anyone ownership rights now or in the future); (2) merger or consolidation, or issuance of additional securities representing an ownership interest in Franchise Owner; (3) sale of common stock of Franchise Owner sold pursuant to a private placement or registered public offering; (4) Transfer of an Interest in a divorce proceeding or otherwise by operation of law; or (5) Transfer of an Interest by will, declaration of or transfer in trust, or under the laws of intestate succession.","1. Norm type: prohibition
+2. Subject: Franchise Owner or a Principal Owner
+3. Object: the party with respect to whom the norm applies (not explicitly stated in the sentence)
+4. Antecedent: transfer of ownership resulting in Principal Owner(s) holding less than 75% interest in Franchise Owner
+5. Consequent: transfer of the Agreement or any part of interest in it without advance written approval is prohibited."
+8,8,"Biocept grants to Life Technologies a non-exclusive option, exercisable during the two (2) year period beginning on the Effective Date, to develop plans, and negotiate with Biocept, for the co-development with Biocept of such systems for the Assay, employing or based on Biocept technologies.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Life Technologies
+3. Object: Biocept
+4. Antecedent: Exercisable during the two (2) year period beginning on the Effective Date
+5. Consequent: Develop plans and negotiate with Biocept for the co-development of systems for the Assay, employing or based on Biocept technologies
+
+Norm 2:
+1. Norm type: Power
+2. Subject: Life Technologies
+3. Object: Biocept
+4. Antecedent: Exercisable during the two (2) year period beginning on the Effective Date
+5. Consequent: Bring about the development of plans and negotiation with Biocept for the co-development of systems for the Assay, employing or based on Biocept technologies"
+9,9,"This Agreement can be terminated at any time prior to the expiry of the Term, as follows:<omitted>(c) by the Consultant electing to give the Company notice, in the event that there occurs a Change of Control (as defined below) within six (6) months of the effective date of such Change of Control, and if the Consultant so elects to terminate this Agreement, then the Consultant will be immediately entitled to a termination payment equal to CDN$750,000;","1. Norm type: commitment
+2. Subject: Consultant
+3. Object: Company
+4. Antecedent: Change of Control occurring within six months of the effective date
+5. Consequent: Consultant being entitled to a termination payment equal to CDN$750,000"
+10,10,"During the Term, Supplier will promptly notify Customer in writing if at any time a Change of Control shall occur as to Supplier, such notification to be given no later than fifteen (15) days following such Change of Control. [* * *]","1. Norm type: commitment
+2. Subject: Supplier
+3. Object: Customer
+4. Antecedent: Change of Control occurs as to Supplier
+5. Consequent: Supplier will promptly notify Customer in writing no later than fifteen (15) days following such Change of Control."
+11,11,"Accordingly, either Party may terminate this Agreement or all/part of a Project for any reason and at any time upon giving the other Party sixty (60) days prior written notice.","1. Norm type: commitment
+2. Subject: either Party
+3. Object: the other Party
+4. Antecedent: giving the other Party sixty (60) days prior written notice
+5. Consequent: termination of the Agreement or all/part of a Project"
+12,12,"Should there be a Change of Control of either Party resulting in the control of such Party by a Third Party which  markets or sells a Competing Product in any part of the Territory, then the rights under this Agreement may not be assigned without the  express consent of the other Party which consent shall not be unreasonably withheld. ""Change of Control"" shall mean (a) the sale, lease,  exchange, license or disposition of all or substantially all of the Party's assets in one transaction or series of related transactions or (b) a  merger or consolidation with an unaffiliated Third Party as a result of which the holders of the Party's issued and outstanding voting  securities immediately before such transaction own or control less than a majority of the voting securities of the continuing or surviving  entity immediately after such transaction.","1. Norm type: prohibition
+2. Subject: Party undergoing a Change of Control
+3. Object: Third Party marketing or selling a Competing Product in any part of the Territory
+4. Antecedent: Change of Control of either Party resulting in the control of such Party by a Third Party which markets or sells a Competing Product in any part of the Territory
+5. Consequent: Assignment of rights under the Agreement may not be done without the express consent of the other Party"
+13,13,"""Distribution Term"" means the period commencing on the first Regulatory Approval of the Product in the Territory and continuing until [***], or if this Agreement is terminated earlier pursuant to Article 12, the effective date of such termination.<omitted>At any time following the expiration of the Distribution Term (as defined in Section 1.17), the Distributor may terminate this Agreement at will upon [***] prior written notice to Zogenix.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Distributor
+3. Object: Zogenix
+4. Antecedent: Expiration of the Distribution Term
+5. Consequent: Distributor may terminate the Agreement at will upon [***] prior written notice to Zogenix.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Zogenix
+3. Object: Distributor
+4. Antecedent: Termination of the Agreement pursuant to Article 12
+5. Consequent: Distributor may terminate the Agreement at will upon [***] prior written notice to Zogenix."
+14,14,"Unless this Agreement is terminated by Zogenix under Section 12.2(c), Distributor shall use Commercially Reasonable Efforts to cooperate with Zogenix and/or its designee to effect a smooth and orderly transition in the registration and Commercialization of the Product in the Field in the Territory during the applicable notice period under Section 12.2 and following the effective date of termination.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Distributor
+3. Object: Zogenix
+4. Antecedent: Agreement not terminated by Zogenix under Section 12.2(c)
+5. Consequent: Distributor shall use Commercially Reasonable Efforts to cooperate with Zogenix and/or its designee to effect a smooth and orderly transition in the registration and Commercialization of the Product in the Field in the Territory during the applicable notice period under Section 12.2 and following the effective date of termination.
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Zogenix
+3. Object: Distributor
+4. Antecedent: Agreement not terminated by Zogenix under Section 12.2(c)
+5. Consequent: Zogenix and/or its designee to effect a smooth and orderly transition in the registration and Commercialization of the Product in the Field in the Territory during the applicable notice period under Section 12.2 and following the effective date of termination."
+15,15,"Any later proposal to complete that proposed Transfer will be deemed a new offer, giving us a new right of approval and right of first refusal effective as of the day we receive formal notice of the new (or continuing) proposal.","Norm 1:
+1. Norm type: Authorization
+2. Subject: The party making the proposal
+3. Object: The party receiving the proposal
+4. Antecedent: Any later proposal to complete the proposed Transfer
+5. Consequent: Deemed a new offer
+
+Norm 2:
+1. Norm type: Power
+2. Subject: The party receiving the proposal
+3. Object: The party making the proposal
+4. Antecedent: Formal notice of the new (or continuing) proposal
+5. Consequent: Right of approval and right of first refusal"
+16,16,"Subject to the terms and conditions of this Agreement commencing as of the Effective Date and for the duration of the Term and any Transition-out Period, Ehave hereby grants to CHT a non-transferable (except as permitted under Section 20(f)), right to: (i) sub-license the use of the Ehave Companion Solution within the Field of Use in the Territory to End Users and their respective Authorized Users, including in operation or by interfacing with other software, hardware, systems, networks and services, in accordance with and subject to the provisions of CHT's Subscription Agreement; and (ii) use the Ehave Companion Solution to support its licensed End Users.","1. Norm type: Authorization, Power
+2. Subject: Ehave
+3. Object: CHT
+4. Antecedent: Subject to the terms and conditions of this Agreement commencing as of the Effective Date and for the duration of the Term and any Transition-out Period
+5. Consequent: (i) sub-license the use of the Ehave Companion Solution within the Field of Use in the Territory to End Users and their respective Authorized Users, including in operation or by interfacing with other software, hardware, systems, networks and services, in accordance with and subject to the provisions of CHT's Subscription Agreement; and (ii) use the Ehave Companion Solution to support its licensed End Users."
+17,17,"If ENERGOUS is acquired by a third party, ENERGOUS' acquirer will have the right, for a period of [***] following closing of such acquisition, to terminate this Agreement upon written notice to DIALOG.","Norm 1:
+1. Norm type: Authorization
+2. Subject: ENERGOUS' acquirer
+3. Object: DIALOG
+4. Antecedent: ENERGOUS is acquired by a third party
+5. Consequent: ENERGOUS' acquirer will have the right to terminate the Agreement upon written notice to DIALOG.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: DIALOG
+3. Object: ENERGOUS' acquirer
+4. Antecedent: ENERGOUS is acquired by a third party
+5. Consequent: DIALOG must allow ENERGOUS' acquirer to terminate the Agreement upon written notice."
+18,18,"Sanofi may terminate this Agreement (A) in its entirety by providing [***] written notice of termination to RevMed or (B) on a country-by-country or Product-by-Product basis by providing [***] written notice of termination to RevMed; provided that if Sanofi desires to terminate this Agreement under this Section 12.2(a)(i)B only with respect to the U.S. (for all Products or one or more Products), Sanofi shall provide [***] written notice of termination to RevMed.","1. Norm type: 
+- Authorization (for termination on a country-by-country or Product-by-Product basis)
+- Commitment (for termination with respect to the U.S. for all Products or one or more Products)
+
+2. Subject: Sanofi
+
+3. Object: RevMed
+
+4. Antecedent: Providing [***] written notice of termination
+
+5. Consequent: Termination of the Agreement"
+19,19,"Upon the Effective Date, Harpoon hereby grants to AbbVie the exclusive right, but not the obligation, to obtain the licenses set forth in Section 5.1.3 (the ""License Option"").","Norm 1:
+1. Norm type: Authorization
+2. Subject: Harpoon
+3. Object: AbbVie
+4. Antecedent: Effective Date
+5. Consequent: AbbVie has the exclusive right to obtain the licenses set forth in Section 5.1.3
+
+Norm 2:
+1. Norm type: Power
+2. Subject: Harpoon
+3. Object: AbbVie
+4. Antecedent: Effective Date
+5. Consequent: AbbVie has the exclusive right to obtain the licenses set forth in Section 5.1.3 and can cause a change in existing norms."
+20,20,"Upon the expiration of the Term or termination of this Supply Agreement, in its entirety or with respect to one or more Products, this Supply Agreement shall, except as otherwise provided in this Section 10.3 or Section 10.5, be of no further force or effect; provided, however, that (a) in the event this Supply Agreement is terminated by SutroVax pursuant to Section 10.2.3 and there are outstanding Work Orders or other purchase orders accepted by Sutro that would not be fulfilled as a result of such termination, SutroVax shall reimburse Sutro for all supplies and materials purchased by Sutro and time incurred by Sutro personnel (to the extent incurred solely for manufacture of Product for SutroVax) for the manufacture, or preparation for the manufacture, of Products for any Work Orders placed by SutroVax and any other purchase orders accepted by Sutro prior to such expiration or termination, in each case to the extent Sutro cannot otherwise reasonably mitigate such the costs and expenses of such supplies, materials and time (e.g., by use of resulting supplies, materials and work-in-progress Product for other purposes); provided that to the extent SutroVax pays for any supplies or materials, upon SutroVax's request Sutro shall promptly transfer and deliver such supplies and materials to SutroVax; and (b) if this Supply Agreement is terminated with respect to one or more Products, but not all Products, then this Supply Agreement shall continue in full force and effect with respect to the applicable Product(s) for which it is not terminated.","1. Norm type: commitment
+2. Subject: SutroVax
+3. Object: Sutro
+4. Antecedent: Termination of the Supply Agreement by SutroVax pursuant to Section 10.2.3
+5. Consequent: Reimbursement of supplies, materials, and time incurred by Sutro personnel for the manufacture of Products for SutroVax if Work Orders or purchase orders are not fulfilled.
+
+2. Norm type: authorization
+3. Subject: Sutro
+4. Antecedent: Termination of the Supply Agreement with respect to one or more Products
+5. Consequent: Continuation of the Supply Agreement in full force and effect with respect to the applicable Product(s) for which it is not terminated."
+21,21,"Notwithstanding anything contained herein to the contrary, in the event that EKR is entitled to exercise its right to terminate this Agreement pursuant to Section 16.1(a), in addition to the right to terminate as provided therein and any other remedies EKR  may have hereunder, PPI shall assist EKR in the transfer of the manufacture of the Products, including the Specifications from PPI to EKR  or EKR's designee.","1. Norm type: commitment
+2. Subject: PPI
+3. Object: EKR
+4. Antecedent: EKR is entitled to exercise its right to terminate this Agreement pursuant to Section 16.1(a)
+5. Consequent: PPI shall assist EKR in the transfer of the manufacture of the Products, including the Specifications from PPI to EKR or EKR's designee."
+22,22,"This Agreement may be terminated at any time prior to the Effective Time by Parent, in its sole and absolute discretion, without the approval or consent of<omitted>any other Person, including SpinCo.","Norm 1:
+1. Norm type: Power
+2. Subject: Parent
+3. Object: <omitted>any other Person, including SpinCo
+4. Antecedent: Agreement may be terminated at any time prior to the Effective Time
+5. Consequent: Termination of the Agreement
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Parent
+3. Object: SpinCo
+4. Antecedent: Agreement may be terminated at any time prior to the Effective Time
+5. Consequent: Termination of the Agreement"
+23,23,"If Franchisee desires to assign his rights under the Franchise to a new franchisee,  Franchisee  (Assignor of the  Franchise),  agrees to pay to Pretzel Time a transfer  fee equal to the  greater of SIX  THOUSAND  TWO  HUNDRED  FIFTY DOLLARS  ($6,250.00) or the then current  transfer fee being paid by franchisees upon the assignment, gift, bequeath or transfer of ownership of the Franchise to cover administrative costs and expenses.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Franchisee
+3. Object: Pretzel Time
+4. Antecedent: Franchisee desires to assign his rights under the Franchise to a new franchisee
+5. Consequent: Franchisee agrees to pay a transfer fee equal to the greater of $6,250.00 or the then current transfer fee being paid by franchisees upon the assignment, gift, bequeath, or transfer of ownership of the Franchise to cover administrative costs and expenses.
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Pretzel Time
+3. Object: Franchisee
+4. Antecedent: Franchisee desires to assign his rights under the Franchise to a new franchisee
+5. Consequent: Franchisee is authorized to assign his rights under the Franchise to a new franchisee."
+24,24,"In the event of expiration or termination of this Agreement, an Order or of Maintenance Services under this Agreement, Supplier agrees that upon the request of Bank of America, Supplier will, at no additional cost to Bank of America and through the period of paid up Maintenance Services, continue uninterrupted operations, conclude and cooperate with Bank of America in the transition of the business at Bank of America's direction and in a manner that causes no material disruption to Bank of America business and operations.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Supplier
+3. Object: Bank of America
+4. Antecedent: Expiration or termination of the Agreement, an Order, or Maintenance Services
+5. Consequent: Supplier will continue uninterrupted operations, conclude, and cooperate with Bank of America in the transition of the business at Bank of America's direction and in a manner that causes no material disruption to Bank of America business and operations.
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Bank of America
+3. Object: Supplier
+4. Antecedent: Expiration or termination of the Agreement, an Order, or Maintenance Services
+5. Consequent: Bank of America can request Supplier to continue uninterrupted operations, conclude, and cooperate in the transition of the business at Bank of America's direction and in a manner that causes no material disruption to Bank of America business and operations."
+25,25,Any material change in the terms of the offer from a third-party after we have elected not to purchase the seller's interest will constitute a new offer subject to the same right of first refusal as the third party's initial offer.,"Norm 1:
+1. Norm type: Prohibition
+2. Subject: Third-party
+3. Object: Seller
+4. Antecedent: Any material change in the terms of the offer from a third-party after we have elected not to purchase the seller's interest
+5. Consequent: Constitutes a new offer subject to the same right of first refusal as the third party's initial offer
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Seller
+3. Object: Third-party
+4. Antecedent: Any material change in the terms of the offer from a third-party after we have elected not to purchase the seller's interest
+5. Consequent: Constitutes a new offer subject to the same right of first refusal as the third party's initial offer"
+26,26,"Following the License Option Exercise Closing Date, if [***] owned or controlled by a Third Party in a particular country or jurisdiction is necessary to Exploit a Licensed Compound or Licensed Product, AbbVie shall have the first right, but not the obligation, to negotiate and enter into an agreement with a Third Party in order to obtain a license or right under such Patent or intellectual property right.","Norm 1:
+1. Norm type: Authorization
+2. Subject: AbbVie
+3. Object: Third Party
+4. Antecedent: [***] owned or controlled by a Third Party in a particular country or jurisdiction is necessary to Exploit a Licensed Compound or Licensed Product
+5. Consequent: AbbVie shall have the first right, but not the obligation, to negotiate and enter into an agreement with a Third Party in order to obtain a license or right under such Patent or intellectual property right.
+
+Norm 2:
+1. Norm type: Power
+2. Subject: AbbVie
+3. Object: Third Party
+4. Antecedent: [***] owned or controlled by a Third Party in a particular country or jurisdiction is necessary to Exploit a Licensed Compound or Licensed Product
+5. Consequent: AbbVie can negotiate and enter into an agreement with a Third Party in order to obtain a license or right under such Patent or intellectual property right."
+27,27,"Notwithstanding Section 7.1 above, this Agreement may be terminated upon the occurrence of any of the following events:<omitted>(d) By either party hereto upon sixty (60) days prior written notice to the other party hereto;","Norm 1:
+1. Norm type: commitment
+2. Subject: either party
+3. Object: the other party
+4. Antecedent: sixty (60) days prior written notice
+5. Consequent: termination of the Agreement"
+28,28,"On expiration or the effective date of termination of this Agreement, if earlier:<omitted>e) Supplier shall promptly cooperate with Customer to transfer and transition supply of the Products to a Third Party supplier. Upon Customer's request, Supplier shall cooperate with Customer in the transfer of technology and know-how necessary to Manufacture Products to such Third Party supplier, including providing Customer and the Third Party supplier with reasonable access to the Facilities and consulting services related to Manufacturing of the Product. Supplier shall conduct such activities at Customer's expense paid in advance.","1. Norm type: commitment
+2. Subject: Supplier
+3. Object: Customer
+4. Antecedent: On expiration or the effective date of termination of this Agreement
+5. Consequent: Supplier shall promptly cooperate with Customer to transfer and transition supply of the Products to a Third Party supplier. Upon Customer's request, Supplier shall cooperate with Customer in the transfer of technology and know-how necessary to Manufacture Products to such Third Party supplier, including providing Customer and the Third Party supplier with reasonable access to the Facilities and consulting services related to Manufacturing of the Product. Supplier shall conduct such activities at Customer's expense paid in advance."
+29,29,"Unless this Agreement is terminated by Zogenix under Section 12.2(c), at the written request of Zogenix, Distributor shall assign to Zogenix any Product-specific Third Party agreements, to the furthest extent possible, provided that such assignment is permitted under the Product-specific agreement or is otherwise agreed by the applicable Third Party.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Distributor
+3. Object: Zogenix
+4. Antecedent: Agreement not terminated by Zogenix under Section 12.2(c)
+5. Consequent: Distributor shall assign Product-specific Third Party agreements to Zogenix
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Zogenix
+3. Object: Distributor
+4. Antecedent: Agreement not terminated by Zogenix under Section 12.2(c)
+5. Consequent: Distributor shall assign Product-specific Third Party agreements to Zogenix
+
+Norm 3:
+1. Norm type: Authorization
+2. Subject: Distributor
+3. Object: Third Party
+4. Antecedent: Agreement not terminated by Zogenix under Section 12.2(c)
+5. Consequent: Distributor shall assign Product-specific Third Party agreements to Zogenix, if permitted under the Product-specific agreement or agreed by the applicable Third Party."
+30,30,A Change of Control shall be deemed an assignment for purposes of this Agreement.,"1. Norm type: prohibition
+2. Subject: Change of Control
+3. Object: parties involved in the Agreement
+4. Antecedent: Change of Control
+5. Consequent: assignment"
+31,31,"Upon the termination of this Agreement, Operator shall cooperate in the transition of operations to Owner or a successor operator and upon  Owner's request, will promptly deliver all books and records and other property (including, without limitation, intellectual property) of Owner to  Owner or the successor operator, as applicable.","1. Norm type: commitment
+2. Subject: Operator
+3. Object: Owner
+4. Antecedent: Upon the termination of this Agreement
+5. Consequent: Operator shall cooperate in the transition of operations to Owner or a successor operator and promptly deliver all books and records and other property (including, without limitation, intellectual property) of Owner to Owner or the successor operator, as applicable.
+
+2. Norm type: authorization
+3. Subject: Owner
+4. Antecedent: Upon Owner's request
+5. Consequent: Operator will promptly deliver all books and records and other property (including, without limitation, intellectual property) of Owner to Owner or the successor operator, as applicable."
+32,32,"If AbbVie terminates this Agreement with respect to a country or other jurisdiction, or in its entirety pursuant to Section 12.3, AbbVie shall have the right for at least [***] and no more than [***], which period shall be determined by Harpoon in its sole discretion, after the effective date of such termination with respect to such country or other jurisdiction to sell or otherwise dispose of all Licensed Compound or Licensed Product then in its inventory and any in-progress inventory, in each case that is intended for sale or disposition in such country or other jurisdiction, as though this Agreement had not terminated with respect to such country or other jurisdiction, and such sale or disposition shall not constitute infringement of Harpoon's or its Affiliates' Patent or other intellectual property or other proprietary rights.","1. Norm type: authorization
+2. Subject: AbbVie
+3. Object: Harpoon
+4. Antecedent: Termination of the Agreement with respect to a country or other jurisdiction, or in its entirety pursuant to Section 12.3
+5. Consequent: AbbVie has the right to sell or dispose of Licensed Compound or Licensed Product in its inventory intended for sale or disposition in the terminated country or jurisdiction without infringing on Harpoon's or its Affiliates' Patent or other intellectual property rights."
+33,33,"In the event the closing of the purchase does not occur within said ninety (90) day period because Franchisee fails to act diligently in connection therewith,  the purchase price shall be reduced by ten percent (10%).","1. Norm type: commitment
+2. Subject: Franchisee
+3. Object: not explicitly stated in the sentence
+4. Antecedent: closing of the purchase does not occur within said ninety (90) day period because Franchisee fails to act diligently in connection therewith
+5. Consequent: the purchase price shall be reduced by ten percent (10%)"
+34,34,"Unless this Agreement is terminated by Zogenix under Section 12.2(c), at Zogenix's option, which shall be exercised by written notice to Distributor, to the extent permitted under Applicable Laws, Distributor shall assign or cause to be assigned to Zogenix or its designee (or to the extent not so assignable, Distributor shall take all reasonable actions to make available to Zogenix or its designee the benefits of), at Zogenix's cost, all Regulatory Filings and Regulatory Approvals for the Product in the Field in the Territory.","1. Norm type: commitment
+2. Subject: Distributor
+3. Object: Zogenix
+4. Antecedent: Unless this Agreement is terminated by Zogenix under Section 12.2(c)
+5. Consequent: Distributor shall assign or cause to be assigned to Zogenix or its designee (or to the extent not so assignable, Distributor shall take all reasonable actions to make available to Zogenix or its designee the benefits of), at Zogenix's cost, all Regulatory Filings and Regulatory Approvals for the Product in the Field in the Territory."
+35,35,"Without limiting the provisions of Section 11, commencing on the delivery of any notice of termination of this Agreement, and continuing through the effective date of termination and for a period of sixty (60) Business Days thereafter (the ""Transition-out Period""), Ehave will, to the extent requested by CHT, provide to CHT (or at CHT's request to CHT's End User) such reasonable cooperation, assistance and services to facilitate the orderly wind down, transition and migration and transfer of the End User Data from Ehave to CHT (the ""Transition-out Services"").","1. Norm type: commitment
+2. Subject: Ehave
+3. Object: CHT
+4. Antecedent: delivery of any notice of termination of the Agreement
+5. Consequent: provide reasonable cooperation, assistance, and services to facilitate the orderly wind down, transition, and migration of End User Data from Ehave to CHT. 
+
+2. Norm type: authorization
+3. Subject: CHT
+4. Antecedent: request for cooperation, assistance, and services from Ehave
+5. Consequent: receive such cooperation, assistance, and services from Ehave for the transition-out period."
+36,36,"We may terminate your right to provide products and services to a Major Account customer at any time by giving you at least 30 days' prior written notice, and you may terminate your right to provide products and services to a Major Account at any time by giving us at least 30 days' prior written notice.","Norm 1:
+1. Norm type: Authorization
+2. Subject: We
+3. Object: You
+4. Antecedent: Giving at least 30 days' prior written notice
+5. Consequent: Termination of the right to provide products and services to a Major Account customer
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: You
+3. Object: We
+4. Antecedent: Giving at least 30 days' prior written notice
+5. Consequent: Termination of the right to provide products and services to a Major Account"
+37,37,"AbbVie may terminate this Agreement in its entirety, or on a country or other jurisdiction -by-country or other jurisdiction basis, for any or no reason, upon ninety (90) days' prior written notice to Harpoon.","1. Norm type: commitment
+2. Subject: AbbVie
+3. Object: Harpoon
+4. Antecedent: AbbVie may terminate this Agreement in its entirety, or on a country or other jurisdiction-by-country or other jurisdiction basis
+5. Consequent: for any or no reason, upon ninety (90) days' prior written notice to Harpoon"
+38,38,"Notwithstanding anything else in this Agreement, in the event of termination under this Paragraph 12.04 ExxonMobil may terminate any licenses granted to FCE under this Agreement that would otherwise survive termination, taking into account the circumstances surrounding the Change in Control.","Norm 1:
+1. Norm type: Authorization
+2. Subject: ExxonMobil
+3. Object: FCE
+4. Antecedent: Termination under Paragraph 12.04
+5. Consequent: Termination of any licenses granted to FCE under the Agreement that would otherwise survive termination
+
+Norm 2:
+1. Norm type: Power
+2. Subject: ExxonMobil
+3. Object: FCE
+4. Antecedent: Change in Control
+5. Consequent: Termination of any licenses granted to FCE under the Agreement that would otherwise survive termination"
+39,39,"If AbbVie [***] and does not subsequently exercise the License Option, then AbbVie shall [***].","1. Norm type: commitment
+2. Subject: AbbVie
+3. Object: License Option
+4. Antecedent: AbbVie [***] and does not subsequently exercise the License Option
+5. Consequent: AbbVie shall [***]"
+40,40,"In the event that this Agreement is terminated by PPI in accordance with Section 16.1 or EKR in accordance with Section 16.3(b), EKR and its Affiliates, sub-distributors and sub-licensees shall be entitled to continue to sell<omitted>existing stocks of the Product in the Territory for so long as PPI deems necessary to ensure that sale of the Product is not disrupted  provided that EKR and its Affiliates shall cease such sale immediately upon notification from PPI and in any event EKR shall not so sell for  a period of longer than three (3) months following the date of termination. Immediately upon notification from PPI, such post termination  sales shall cease.","1. Norm type: authorization
+2. Subject: EKR and its Affiliates, sub-distributors, and sub-licensees
+3. Object: PPI
+4. Antecedent: Agreement termination by PPI in accordance with Section 16.1 or EKR in accordance with Section 16.3(b)
+5. Consequent: Entitled to continue selling existing stocks of the Product in the Territory for a specified period and cease sales immediately upon notification from PPI."
+41,41,"If RevMed wishes to exercise its one-time Co-Promotion Option, it shall so notify Sanofi in writing at least [***] prior to the anticipated launch of such Product in the Co-Promotion Territory.","1. Norm type: Authorization
+2. Subject: RevMed
+3. Object: Sanofi
+4. Antecedent: RevMed wishes to exercise its one-time Co-Promotion Option
+5. Consequent: RevMed shall notify Sanofi in writing at least [***] prior to the anticipated launch of such Product in the Co-Promotion Territory."
+42,42,"The Owners may not enter into any shareholders' agreement, management agreement, voting trust or other arrangement that gives a third party the power to direct and control your affairs without our prior written consent.","Norm 1:
+1. Norm type: Prohibition
+2. Subject: The Owners
+3. Object: Third party
+4. Antecedent: Entering into any shareholders' agreement, management agreement, voting trust, or other arrangement
+5. Consequent: Giving the third party the power to direct and control the affairs
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Third party
+3. Object: The Owners
+4. Antecedent: Obtaining prior written consent from the Owners
+5. Consequent: Directing and controlling the affairs"
+43,43,"Upon the termination of this Agreement for any reason, subject to and without limiting the provisions of Section 12: (i) the Parties shall implement the Transition-Out Services pursuant to Section 10(f); (ii) at the end of the Transition-out Period (or earlier upon CHT's request) Ehave shall terminate and invalidate any Authentication IDs associated with CHT and any of its End Users; (iii) Ehave shall, but not earlier than twenty (20) Business Days after the later of termination or expiration of this Agreement or the Transition-out Period, destroy any copies of the End User Data contained in the Ehave Companion Solution and certify in writing to CHT that it has done so; (iv) CHT shall pay to Ehave the full amount of all Royalties payable hereunder as of the date of termination, if any, whether already invoiced or not (including any amounts due as late payment charges), and any other monies owing to Ehave hereunder; and (v) each Party will return to the other Party, or at the other Party's written request, destroy, in a secure manner all Confidential Information of the other Party which is then in its possession or control and certify in writing that it has done so.","1. Norm type: commitment
+   Subject: Parties
+   Object: Transition-Out Services
+   Antecedent: Termination of the Agreement
+   Consequent: Implementation of Transition-Out Services
+   
+2. Norm type: prohibition
+   Subject: Ehave
+   Object: CHT
+   Antecedent: End of Transition-out Period or CHT's request
+   Consequent: Termination and invalidation of Authentication IDs
+   
+3. Norm type: commitment
+   Subject: Ehave
+   Object: CHT
+   Antecedent: Twenty (20) Business Days after termination or expiration of the Agreement
+   Consequent: Destruction of End User Data and certification to CHT
+   
+4. Norm type: commitment
+   Subject: CHT
+   Object: Ehave
+   Antecedent: Termination of the Agreement
+   Consequent: Payment of all Royalties and other monies owing to Ehave
+   
+5. Norm type: commitment
+   Subject: Each Party
+   Object: Other Party
+   Antecedent: Possession of Confidential Information
+   Consequent: Return or destruction of Confidential Information and certification of action taken"
+44,44,"In the case of a termination of this Agreement, Sanofi (with respect to the Termination Products in the Licensed Territory), shall be entitled, for a period of [***] after termination, to (i) complete Manufacture of work-in-progress, and (ii) continue conducting Commercialization activities being conducted by Sanofi hereunder as of such termination (if applicable, with respect to the terminated country(ies)), to the extent related to Termination Product in Sanofi's inventory as of such termination (or added to such inventory as a result of the completion described in clause (i)), provided that Sanofi fulfills its payment obligations under this Agreement in connection with such inventory sell-off, provided further that the payment of royalties to RevMed and the sharing of Net Profits and Net Losses under the Profit/Loss Share Agreement shall continue to apply during the sell-off period.","1. Norm type: authorization
+2. Subject: Sanofi
+3. Object: Termination Products in the Licensed Territory
+4. Antecedent: Termination of the Agreement
+5. Consequent: Sanofi shall be entitled to complete Manufacture of work-in-progress and continue conducting Commercialization activities for a specified period after termination."
+45,45,"This Agreement can be terminated at any time prior to the expiry of the Term, as follows: (a) by the Consultant electing to give the Company not less than 3 months prior notice of such termination;
+
+(b) by the Company electing to give the Consultant 3 months prior notice of such termination along with a termination payment equal to the annual Consulting Fee;","Norm 1:
+1. Norm type: commitment
+2. Subject: Consultant
+3. Object: Company
+4. Antecedent: Consultant electing to give the Company not less than 3 months prior notice of termination
+5. Consequent: Agreement termination
+
+Norm 2:
+1. Norm type: commitment
+2. Subject: Company
+3. Object: Consultant
+4. Antecedent: Company electing to give the Consultant 3 months prior notice of termination along with a termination payment equal to the annual Consulting Fee
+5. Consequent: Agreement termination"
+46,46,"This Agreement may be terminated subject to the following clauses:<omitted>Subject to Section 1.6, by Vendor (or successor to Vendor), upon written notice to Distributor of a change of control of Vendor and the election by Vendor (or successor to Vendor) to terminate this Agreement, where a ""change of control"" shall mean a change in ownership of the Vendor such that an unaffiliated third party acquires a majority of the voting power of Vendor;","1. Norm type: commitment
+2. Subject: Vendor (or successor to Vendor)
+3. Object: Distributor
+4. Antecedent: change of control of Vendor
+5. Consequent: termination of the Agreement"
+47,47,"The Monthly Compensation shall be paid for the remaining monthly periods remaining in the Term, as if the termination of this Agreement had not occurred, or twenty four (24) calendar months, which ever period is less, where payment shall be made no later than thirty (30) calendar days after the end of the relevant monthly period.","Norm 1:
+1. Norm type: Commitment
+2. Subject: The party responsible for paying the Monthly Compensation
+3. Object: The party entitled to receive the Monthly Compensation
+4. Antecedent: The termination of the Agreement
+5. Consequent: Payment of the Monthly Compensation for the remaining monthly periods in the Term
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: The party responsible for paying the Monthly Compensation
+3. Object: The party entitled to receive the Monthly Compensation
+4. Antecedent: The termination of the Agreement
+5. Consequent: Payment of the Monthly Compensation for twenty-four (24) calendar months, if less than the remaining monthly periods in the Term
+
+Norm 3:
+1. Norm type: Commitment
+2. Subject: The party responsible for paying the Monthly Compensation
+3. Object: The party entitled to receive the Monthly Compensation
+4. Antecedent: The end of the relevant monthly period
+5. Consequent: Payment to be made no later than thirty (30) calendar days after the end of the relevant monthly period."
+48,48,"At any time after July 1, 2015, PPI shall have the right, exercisable upon sixty (60) days prior written notice to EKR, to terminate the Lease Term and repurchase the Transferred Equipment from EKR, subject to payment by PPI to EKR within five (5) days of such  notice of any principal paid by EKR under the Promissory Note, which if exercised shall result in the termination of the Step-in Right  set forth in Section 17.5.","1. Norm type: authorization
+2. Subject: PPI
+3. Object: EKR
+4. Antecedent: Exercisable upon sixty (60) days prior written notice to EKR
+5. Consequent: Termination of the Lease Term and repurchase of the Transferred Equipment from EKR
+
+1. Norm type: commitment
+2. Subject: PPI
+3. Object: EKR
+4. Antecedent: Payment by PPI to EKR within five (5) days of such notice of any principal paid by EKR under the Promissory Note
+5. Consequent: Termination of the Step-in Right set forth in Section 17.5."
+49,49,"In such event, the provisions of this Agreement that survive during the Wind Down Period will continue to survive for the remainder of the period of time that DIALOG is authorized to Sell Licensed Products to any customer in accordance with the foregoing sentence.","Norm 1:
+1. Norm type: Authorization
+2. Subject: DIALOG
+3. Object: Sell Licensed Products
+4. Antecedent: DIALOG is authorized to Sell Licensed Products to any customer
+5. Consequent: Provisions of the Agreement that survive during the Wind Down Period will continue to survive for the remainder of the period of time DIALOG is authorized to Sell Licensed Products to any customer. 
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: DIALOG
+3. Object: Provisions of the Agreement
+4. Antecedent: DIALOG is authorized to Sell Licensed Products to any customer
+5. Consequent: Provisions of the Agreement that survive during the Wind Down Period will continue to survive for the remainder of the period of time DIALOG is authorized to Sell Licensed Products to any customer."
+50,50,"Subject to the terms and conditions of this Agreement, RevMed hereby grants to Sanofi an exclusive option, under the Patent Rights and Know-How claiming or embodied in the [***].","1. Norm type: authorization
+2. Subject: RevMed
+3. Object: Sanofi
+4. Antecedent: Subject to the terms and conditions of this Agreement
+5. Consequent: RevMed hereby grants to Sanofi an exclusive option, under the Patent Rights and Know-How claiming or embodied in the [***]"
+51,51,"If the proposed Transfer includes assets not related to the operation of the Franchise, we may purchase only the assets related to the operation of the Franchise or may also purchase the other assets","Norm 1:
+1. Norm type: Authorization
+2. Subject: We
+3. Object: the proposed Transfer
+4. Antecedent: the proposed Transfer includes assets not related to the operation of the Franchise
+5. Consequent: We may purchase only the assets related to the operation of the Franchise or may also purchase the other assets
+
+Norm 2:
+1. Norm type: Power
+2. Subject: We
+3. Object: the proposed Transfer
+4. Antecedent: the proposed Transfer includes assets not related to the operation of the Franchise
+5. Consequent: We may also purchase the other assets"
+52,52,"If Parent enters an agreement to transfer the license granted to it under this Section 3.1 in connection with any sale or transfer of a Parent business, then SpinCo and members of the SpinCo Group shall be made third party beneficiaries under such transfer agreement to enforce breaches of the license","1. Norm type: Authorization
+2. Subject: Parent
+3. Object: SpinCo and members of the SpinCo Group
+4. Antecedent: Parent entering an agreement to transfer the license granted to it under Section 3.1 in connection with any sale or transfer of a Parent business
+5. Consequent: SpinCo and members of the SpinCo Group shall be made third party beneficiaries under such transfer agreement to enforce breaches of the license."
+53,53,"At all times during the Term, upon request from Bank of America and upon termination of this Agreement for any reason, Supplier shall provide immediately to Bank of America the then-current version of any Work Product in Supplier's possession.","1. Norm type: Authorization
+2. Subject: Supplier
+3. Object: Bank of America
+4. Antecedent: Request from Bank of America or termination of the Agreement
+5. Consequent: Supplier providing the then-current version of any Work Product in their possession immediately"
+54,54,"In addition to the foregoing, Sanofi shall use reasonable efforts with respect to those activities for which it is responsible hereunder to cooperate with RevMed to achieve an orderly transition of the Development, Manufacturing and Commercialization of Termination Products from Sanofi or its applicable Affiliate to RevMed.","1. Norm type: commitment
+2. Subject: Sanofi
+3. Object: RevMed
+4. Antecedent: Sanofi being responsible for the activities
+5. Consequent: Cooperation with RevMed to achieve an orderly transition of the Development, Manufacturing, and Commercialization of Termination Products."
+55,55,"At RevMed's reasonable request, for a period not to exceed [***] following the effective date of termination, Sanofi shall provide RevMed with assistance up to a total of [***] with any inquiries and correspondence with Regulatory Authorities relating to any such Termination Product.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Sanofi
+3. Object: RevMed
+4. Antecedent: RevMed's reasonable request
+5. Consequent: Sanofi shall provide assistance with inquiries and correspondence with Regulatory Authorities
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Sanofi
+3. Object: RevMed
+4. Antecedent: RevMed's reasonable request
+5. Consequent: Sanofi shall provide assistance for a period not to exceed [***] following the effective date of termination."
+56,56,"The insurance policies shall be under an occurrence form, but if only a claims-made form is available to a Party, then such Party shall continue to maintain such insurance after the expiration or termination of this Agreement for the longer of (a) a period of [***] following termination or expiration of this Agreement in its entirety, or (b) with respect to a particular Party, [***] by a Party.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Party
+3. Object: Insurance policies
+4. Antecedent: Claims-made form is available to a Party
+5. Consequent: Party shall continue to maintain insurance after the expiration or termination of the Agreement for a specified period.
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Party
+3. Object: Party
+4. Antecedent: Claims-made form is available to a Party
+5. Consequent: Party shall continue to maintain insurance after the expiration or termination of the Agreement for a specified period."
+57,57,"In the event of termination or expiration of this Agreement             pursuant to Section 5.0 above, IBM shall have an option, which             shall expire [*] days after such termination or expiration, to             purchase from MSL, at a reasonable price agreeable to the Parties,             all assets used by MSL to perform the manufacturing and fulfillment             functions<omitted>outlined in Attachment 1: Statement of Work, to the extent owned or             transferable by MSL, and required by IBM to perform such functions.","Norm 1:
+1. Norm type: Authorization
+2. Subject: IBM
+3. Object: MSL
+4. Antecedent: Termination or expiration of the Agreement
+5. Consequent: IBM has the option to purchase assets from MSL
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: MSL
+3. Object: IBM
+4. Antecedent: Termination or expiration of the Agreement
+5. Consequent: MSL commits to selling assets to IBM at a reasonable price
+
+Norm 3:
+1. Norm type: Commitment
+2. Subject: IBM
+3. Object: MSL
+4. Antecedent: IBM requiring assets to perform functions
+5. Consequent: MSL commits to selling assets to IBM at a reasonable price"
+58,58,"If AbbVie decides not to prepare, file, prosecute, or maintain a Product-Specific Patent or Joint Patent in a country or other jurisdiction in the Territory, AbbVie shall provide reasonable prior written notice to Harpoon of such intention (which notice shall, in any event, be given no later than [***] prior to the next deadline for any action that may be taken with respect to such Product-Specific Patent or Joint Patent in such country or other jurisdiction), and Harpoon shall thereupon have the option, in its sole discretion, to assume the control and direction of the preparation, filing, prosecution, and maintenance of such Product-Specific Patent or Joint Patent at its sole cost and expense in such country or other jurisdiction.","1. Norm type: Authorization
+2. Subject: AbbVie
+3. Object: Harpoon
+4. Antecedent: AbbVie decides not to prepare, file, prosecute, or maintain a Product-Specific Patent or Joint Patent in a country or other jurisdiction in the Territory
+5. Consequent: Harpoon shall have the option to assume the control and direction of the preparation, filing, prosecution, and maintenance of such Patent at its sole cost and expense in such country or other jurisdiction. 
+
+2. Norm type: Commitment
+2. Subject: Harpoon
+3. Object: AbbVie
+4. Antecedent: AbbVie decides not to prepare, file, prosecute, or maintain a Product-Specific Patent or Joint Patent in a country or other jurisdiction in the Territory
+5. Consequent: AbbVie shall provide reasonable prior written notice to Harpoon of such intention."
+59,59,"ENERGOUS may, at any time after the third anniversary of the Effective Date, terminate this Agreement with or without cause upon not less than one hundred and eighty (180) days prior written notice to DIALOG.","1. Norm type: Authorization
+2. Subject: ENERGOUS
+3. Object: DIALOG
+4. Antecedent: After the third anniversary of the Effective Date
+5. Consequent: Terminate the Agreement with or without cause upon not less than one hundred and eighty (180) days prior written notice"
+60,60,"M&I may, at any time, withdraw any of the Services (other than the Core Services) upon providing ninety (90) days' prior written notice to Customer.","Norm 1:
+1. Norm type: Authorization
+2. Subject: M&I
+3. Object: Customer
+4. Antecedent: M&I providing ninety (90) days' prior written notice to Customer
+5. Consequent: M&I withdrawing any of the Services (other than the Core Services)
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: M&I
+3. Object: Customer
+4. Antecedent: M&I providing ninety (90) days' prior written notice to Customer
+5. Consequent: M&I ensuring the withdrawal of any of the Services (other than the Core Services)"
+61,61,"Bank of America may terminate this Agreement, an Order and/or any Customization Schedule(s) for its convenience, without cause, at any time without further charge or expense upon at least forty-five (45) calendar days prior written notice to Supplier.","Norm 1:
+1. Norm type: Power
+2. Subject: Bank of America
+3. Object: Supplier
+4. Antecedent: Bank of America may terminate this Agreement, an Order and/or any Customization Schedule(s) for its convenience, without cause
+5. Consequent: termination of the Agreement, Order, or Customization Schedule(s)
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Bank of America
+3. Object: Supplier
+4. Antecedent: at least forty-five (45) calendar days prior written notice
+5. Consequent: termination of the Agreement, Order, or Customization Schedule(s) without further charge or expense"
+62,62,"During the Term, if Exact desires to grant an exclusive commercial license to a Third Party solely to Promote or sell the Product in the OB/Gyn Field in the Territory (the ""OB/Gyn Commercial Rights""), Exact shall first notify Pfizer of such intent (a ""OB/Gyn Commercial Rights Transfer Notice"") and Pfizer shall have thirty (30) days thereafter to notify Exact of its desire to obtain the OB/Gyn Commercial Rights that are the subject of the OB/Gyn Commercial Rights Transfer Notice.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Exact
+3. Object: Third Party
+4. Antecedent: Exact desires to grant an exclusive commercial license to a Third Party solely to Promote or sell the Product in the OB/Gyn Field in the Territory
+5. Consequent: Exact shall first notify Pfizer of such intent
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Pfizer
+3. Object: Exact
+4. Antecedent: Exact notifies Pfizer of the intent to grant an exclusive commercial license to a Third Party
+5. Consequent: Pfizer shall have thirty (30) days to notify Exact of its desire to obtain the OB/Gyn Commercial Rights that are the subject of the OB/Gyn Commercial Rights Transfer Notice."
+63,63,"Notwithstanding the foregoing, either Party may, without consent of the other Party, assign this Agreement and its rights and obligations hereunder in whole or in part to an Affiliate of such Party, or in whole to its successor in interest in connection with the sale of all or substantially all of its stock or its assets to which this Agreement relates, or in connection with a merger, acquisition or similar transaction.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Either Party
+3. Object: the other Party
+4. Antecedent: None specified
+5. Consequent: Assigning the Agreement and its rights and obligations to an Affiliate, successor in interest, or in connection with a merger, acquisition, or similar transaction.
+
+Norm 2:
+1. Norm type: Power
+2. Subject: Either Party
+3. Object: None specified
+4. Antecedent: None specified
+5. Consequent: Assigning the Agreement and its rights and obligations to an Affiliate, successor in interest, or in connection with a merger, acquisition, or similar transaction."
+64,64,"At any time between the Agreement Date and July 1, 2015, EKR shall have the right, exercisable upon sixty (60) days prior written  notice to PPI, to terminate the Lease Term and sell the Transferred Equipment back to PPI, subject to payment by PPI to EKR within  five (5) days of such notice of $[**] in cash, which if exercised shall result in (i) an offset against the unpaid balance of principal and  interest under the Promissory Note pursuant to Section 3.20(f) below; and (ii) the termination of the Step-in Right described in  Section 17.5.","Norm 1:
+1. Norm type: Authorization
+2. Subject: EKR
+3. Object: PPI
+4. Antecedent: Exercisable upon sixty (60) days prior written notice to PPI
+5. Consequent: Terminate the Lease Term and sell the Transferred Equipment back to PPI
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: PPI
+3. Object: EKR
+4. Antecedent: Payment by PPI to EKR within five (5) days of such notice of $[**] in cash
+5. Consequent: Offset against the unpaid balance of principal and interest under the Promissory Note pursuant to Section 3.20(f) and termination of the Step-in Right described in Section 17.5."
+65,65,Microsoft may terminate this Agreement at any time without cause upon [*] ([*]) days prior written notice.,"1. Norm type: Power
+2. Subject: Microsoft
+3. Object: Agreement
+4. Antecedent: [*] days prior written notice
+5. Consequent: Termination of the Agreement"
+66,66,"If you or any of your Principal Owners wishes to Transfer any Interest, we will have a right of first refusal to purchase that Interest as follows.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Principal Owners
+3. Object: We
+4. Antecedent: If Principal Owners wish to Transfer any Interest
+5. Consequent: We will have a right of first refusal to purchase that Interest
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: We
+3. Object: Principal Owners
+4. Antecedent: If Principal Owners wish to Transfer any Interest
+5. Consequent: We commit to purchasing that Interest as per the right of first refusal."
+67,67,"Franchisee  further agrees that the purchase  price shall be further  reduced by ten percent (10%) per month for each subsequent  month  Franchisee  fails to act diligently to consummate this  transaction.  In the event that Franchisee cannot deliver clear title to all of the purchased assets as aforesaid, or in the event there are other unresolved  issues, at Pretzel Time's option,  the losing of the sale shall be accomplished through an escrow.","1. Norm type: commitment
+2. Subject: Franchisee
+3. Object: Pretzel Time
+4. Antecedent: Franchisee fails to act diligently to consummate the transaction
+5. Consequent: Purchase price shall be reduced by ten percent (10%) per month for each subsequent month
+
+2. Norm type: authorization
+2. Subject: Pretzel Time
+3. Object: Franchisee
+4. Antecedent: Franchisee cannot deliver clear title to all purchased assets or there are other unresolved issues
+5. Consequent: Losing of the sale shall be accomplished through an escrow."
+68,68,"Upon termination of this Agreement for whatever reason whatsoever, the Parties shall have the  following rights and obligations:<omitted>(b) Aura shall have the right but not the obligation to purchase any or all Products then in Aura's possession at the invoiced price(s). In the  event that Aura does not elect to purchase said Products, Aura, at its cost, shall return all such non-purchased Products to Zanotti.","1. Norm type: authorization
+2. Subject: Aura
+3. Object: Zanotti
+4. Antecedent: Upon termination of the Agreement
+5. Consequent: Aura has the right but not the obligation to purchase any or all Products then in Aura's possession at the invoiced price(s)"
+69,69,"If at the time of such termination, Sanofi or its Affiliates are Commercializing a particular Termination Product, then, at RevMed's request, the Parties shall negotiate in good faith a transition services agreement to cover detailing and promotion of such Termination Product (in the same manner and no more extensive than the then-current detailing and promotional efforts of Sanofi) by Sanofi or its Affiliate or contract sales force pursuant to a transition plan agreed by the Parties for a period not to exceed [***], and RevMed shall pay Sanofi a commercially reasonable amount to conduct such activities (which amount would include a commercially reasonable per-detail rate).","1. Norm type: commitment
+2. Subject: Sanofi or its Affiliates
+3. Object: RevMed
+4. Antecedent: Termination of the contract
+5. Consequent: Negotiation and execution of a transition services agreement for detailing and promotion of the Termination Product by Sanofi or its Affiliate or contract sales force for a specified period, with payment from RevMed for these activities."
+70,70,"Upon the termination or expiration of the Franchise, we will have the option, but not the obligation, exercisable for thirty (30) days upon written notice to you, to purchase at fair market value all of the assets of the Franchise, including all approved equipment, fixtures, furniture and signs and all supplies, materials, and other items imprinted with any Mark, and to take an assignment of the lease for the Premises and any other lease or concession agreement necessary for the operation of the Franchise","1. Norm type: authorization
+2. Subject: we
+3. Object: you
+4. Antecedent: termination or expiration of the Franchise
+5. Consequent: purchase all assets of the Franchise, including equipment, fixtures, furniture, signs, supplies, materials, and other items imprinted with any Mark, and take an assignment of the lease for the Premises and any other lease or concession agreement necessary for the operation of the Franchise
+
+2. Norm type: commitment
+2. Subject: we
+3. Object: you
+4. Antecedent: termination or expiration of the Franchise
+5. Consequent: purchase all assets of the Franchise, including equipment, fixtures, furniture, signs, supplies, materials, and other items imprinted with any Mark, and take an assignment of the lease for the Premises and any other lease or concession agreement necessary for the operation of the Franchise
+
+3. Norm type: power
+2. Subject: we
+3. Object: you
+4. Antecedent: termination or expiration of the Franchise
+5. Consequent: cause a change in the existing norms by purchasing all assets of the Franchise, including equipment, fixtures, furniture, signs, supplies, materials, and other items imprinted with any Mark, and taking an assignment of the lease for the Premises and any other lease or concession agreement necessary for the operation of the Franchise"
+71,71,"Upon termination of this Agreement for any reason except as set forth in Section 17.4 below (and, if applicable, in respect of that country in  respect of which termination occurs):<omitted>(b) the following provisions of this Agreement shall continue in full force and effect: Article 1 (""Definitions""), Section 3.20(k),  Section 3.20(l), Article 9 (""Representations and Warranties""), Article 10 (""Liability, Insurance and Indemnities"") (excluding  Section 10.6 (""Insurance"")), Article 11 (""Confidentiality, Press Releases and Publications""), Article 13 (""Infringement of  Third Party Rights""), Section 16.4 (""Effect of Termination""), Article 17 (""Consequences of Termination""), Article 18 (""Force  Majeure""), Article 19 (""Notices""), Article 20 (""Assignment and Change of Control"") and Article 21 (""General Provisions"");     (c) EKR shall return to PPI all PPI IP in its possession;     (d) EKR shall assign to PPI free of charge any domain name registrations it has registered pursuant to Section 8.5; and
+
+  (e) Except in the event of termination of this Agreement by EKR pursuant to Section 16.1(a), EKR shall promptly transfer to PPI  or its nominee, each and every Marketing Authorization (to the extent not held by PPI) relating to the Product, together  with all communications with the relevant Regulatory Authorities, and all notes and record thereof.","1. Norm type: authorization
+2. Subject: EKR
+3. Object: PPI
+4. Antecedent: Termination of the Agreement by EKR pursuant to Section 16.1(a)
+5. Consequent: Transfer of Marketing Authorization relating to the Product to PPI or its nominee, along with all relevant communications and records.
+
+1. Norm type: commitment
+2. Subject: EKR
+3. Object: PPI
+4. Antecedent: Termination of the Agreement for any reason except as set forth in Section 17.4
+5. Consequent: Return of PPI IP in EKR's possession and assignment of domain name registrations to PPI."
+72,72,"During the Term, if Exact (i) enters a formal process authorized or directed by its board of directors or CEO to seek and enter into an arrangement or (ii) intends to agree to a term sheet or seeks to sign a letter of intent or similar arrangement to grant an exclusive commercial license to a Third Party solely to promote or sell the Product outside the Territory (""Ex-US Commercial Rights""), Exact shall first notify Pfizer of such intent (a ""Ex-US Commercial Rights Transfer Notice"") and Pfizer shall have thirty (30) days thereafter to notify Exact of its desire to obtain the Ex-US Commercial Rights that are the subject of the Ex-US Commercial Rights Transfer Notice.","1. Norm type: authorization
+2. Subject: Exact
+3. Object: Pfizer
+4. Antecedent: Exact enters a formal process authorized or directed by its board of directors or CEO to seek and enter into an arrangement or intends to agree to a term sheet or seeks to sign a letter of intent or similar arrangement to grant an exclusive commercial license to a Third Party solely to promote or sell the Product outside the Territory
+5. Consequent: Exact shall first notify Pfizer of such intent (a ""Ex-US Commercial Rights Transfer Notice"") and Pfizer shall have thirty (30) days thereafter to notify Exact of its desire to obtain the Ex-US Commercial Rights that are the subject of the Ex-US Commercial Rights Transfer Notice."
+73,73,"In addition, Metavante agrees to provide to Customer, at Customer's expense, all necessary assistance to facilitate the orderly transition of Services to Customer or its designee (""Termination Assistance""). As part of the Termination Assistance, Metavante shall assist Customer to develop a plan for the transition of all Services then being performed by Metavante under this Agreement, from Metavante to Customer or Customer's designee, on a reasonable schedule developed jointly by Metavante and Customer.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Metavante
+3. Object: Customer
+4. Antecedent: Termination Assistance is required
+5. Consequent: Metavante agrees to provide necessary assistance for the transition of Services to Customer or its designee
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Metavante
+3. Object: Customer
+4. Antecedent: Termination Assistance is required
+5. Consequent: Metavante shall assist Customer in developing a transition plan for Services on a reasonable schedule
+
+Norm 3:
+1. Norm type: Commitment
+2. Subject: Customer
+3. Object: Metavante
+4. Antecedent: Termination Assistance is required
+5. Consequent: Customer agrees to work jointly with Metavante to develop a transition plan for Services on a reasonable schedule"
+74,74,"DIALOG will have the right to terminate this Agreement immediately upon the issuance of written notice to ENERGOUS (A) if ENERGOUS undergoes a Change of Control involving a competitor of DIALOG, or (B) if ENERGOUS acquires, whether directly through a sale of assets or through a Change of Control transaction, any competitor of DIALOG (as reasonably determined by DIALOG). ENERGOUS will provide DIALOG with notice of any such Change of Control or acquisition within [***] after the closing thereof and DIALOG's right to terminate the Agreement will expire [***] after receipt of such notice.","Norm 1:
+1. Norm type: Power
+2. Subject: DIALOG
+3. Object: ENERGOUS
+4. Antecedent: ENERGOUS undergoes a Change of Control involving a competitor of DIALOG or acquires a competitor of DIALOG
+5. Consequent: DIALOG will have the right to terminate the Agreement immediately upon the issuance of written notice to ENERGOUS
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: ENERGOUS
+3. Object: DIALOG
+4. Antecedent: ENERGOUS undergoes a Change of Control involving a competitor of DIALOG or acquires a competitor of DIALOG
+5. Consequent: ENERGOUS will provide DIALOG with notice of any such Change of Control or acquisition within [***] after the closing thereof and DIALOG's right to terminate the Agreement will expire [***] after receipt of such notice."
+75,75,"In the case of a termination of this Agreement, Sanofi (with respect to the Termination Products in the Licensed Territory), shall be entitled, for a period of [***] after termination, to (i) complete Manufacture of work-in-progress, and (ii) continue conducting Commercialization activities being conducted by Sanofi hereunder as of such termination (if applicable, with respect to the terminated country(ies)), to the extent related to such Termination Product in Sanofi's inventory as of such termination (or added to such inventory as a result of the completion described in clause (i)), provided that Sanofi fulfills its payment obligations under this Agreement in connection with such inventory sell-off, provided further that the sharing of Net Profits and Net Losses under the Profit/Loss Share Agreement shall continue to apply during the sell-off period.","1. Norm type: authorization
+2. Subject: Sanofi
+3. Object: Termination Products in the Licensed Territory
+4. Antecedent: Termination of the Agreement
+5. Consequent: Sanofi shall be entitled to complete Manufacture of work-in-progress and continue conducting Commercialization activities for a specified period after termination, related to the Termination Product in Sanofi's inventory."
+76,76,Licensee shall notify Bioeq in writing within [***] ([***]) days after entry by Licensee into a definitive agreement which would result in a Competitor Change of Control.,"Norm 1:
+1. Norm type: Commitment
+2. Subject: Licensee
+3. Object: Bioeq
+4. Antecedent: Entry by Licensee into a definitive agreement
+5. Consequent: Competitor Change of Control
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Bioeq
+3. Object: Licensee
+4. Antecedent: Entry by Licensee into a definitive agreement
+5. Consequent: Competitor Change of Control"
+77,77,"During the term of this Agreement, if MSL decides to sell a substantial       portion of its assets or operations outside the ordinary course of its       business, or to merge or transfer ownership of MSL to a third Party, MSL       will immediately notify IBM.","Norm 1:
+1. Norm type: Commitment
+2. Subject: MSL
+3. Object: IBM
+4. Antecedent: MSL decides to sell a substantial portion of its assets or operations outside the ordinary course of its business, or to merge or transfer ownership of MSL to a third Party
+5. Consequent: MSL will immediately notify IBM
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: IBM
+3. Object: MSL
+4. Antecedent: MSL decides to sell a substantial portion of its assets or operations outside the ordinary course of its business, or to merge or transfer ownership of MSL to a third Party
+5. Consequent: MSL will immediately notify IBM"
+78,78,"Subject to subsections (i)-(iii) of this Section 5.1(a), each Party agrees that prior to the date that is six (6) months after the Effective Time (""Delivery Date""), it will deliver possession of any Tangible/Intangible Information of the other Party that is in its possession or control to the other Party, without retaining any copies.","Norm 1:
+1. Norm type: Commitment
+2. Subject: Each Party
+3. Object: the other Party
+4. Antecedent: prior to the date that is six (6) months after the Effective Time (""Delivery Date"")
+5. Consequent: deliver possession of any Tangible/Intangible Information of the other Party that is in its possession or control to the other Party, without retaining any copies
+
+Norm 2:
+1. Norm type: Prohibition
+2. Subject: Each Party
+3. Object: the other Party
+4. Antecedent: prior to the date that is six (6) months after the Effective Time (""Delivery Date"")
+5. Consequent: retaining any copies of Tangible/Intangible Information of the other Party that is in its possession or control"
+79,79,RevMed shall pay Sanofi such royalties until the earlier of (x) expiration of the Post-Termination Royalty Term therefor and (y) a Change of Control of Sanofi.,"Norm 1:
+1. Norm type: Commitment
+2. Subject: RevMed
+3. Object: Sanofi
+4. Antecedent: Expiration of the Post-Termination Royalty Term or a Change of Control of Sanofi
+5. Consequent: Payment of royalties by RevMed to Sanofi
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Sanofi
+3. Object: RevMed
+4. Antecedent: Expiration of the Post-Termination Royalty Term or a Change of Control of Sanofi
+5. Consequent: Receipt of royalties by Sanofi from RevMed"
+80,80,"If AbbVie provides the License Option Exercise Notice during the License Option Period, upon AbbVie's request, the Parties shall work together in good faith to conduct an analysis of whether any filings or notifications are or may be required to be filed under the HSR Act (the ""HSR Filing"") or any similar applicable foreign law or regulation in connection with AbbVie's exercise of the License Option.","Norm 1:
+1. Norm type: Commitment
+2. Subject: AbbVie
+3. Object: Parties
+4. Antecedent: AbbVie provides the License Option Exercise Notice during the License Option Period
+5. Consequent: Parties shall work together in good faith to conduct an analysis of whether any filings or notifications are or may be required to be filed under the HSR Act or any similar applicable foreign law or regulation in connection with AbbVie's exercise of the License Option.
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Parties
+3. Object: AbbVie
+4. Antecedent: AbbVie's request
+5. Consequent: Parties shall work together in good faith to conduct an analysis of whether any filings or notifications are or may be required to be filed under the HSR Act or any similar applicable foreign law or regulation in connection with AbbVie's exercise of the License Option."
+81,81,Such insurance shall be with a reputable insurance company and where  reasonably possible (taking into account the availability of such insurance) shall be maintained for not less than [**] ([**]) years following  the expiry or termination of this Agreement.,"1. Norm type: commitment
+2. Subject: the party obtaining the insurance
+3. Object: the party requiring the insurance to be maintained
+4. Antecedent: the expiry or termination of the Agreement
+5. Consequent: maintaining the insurance for a specified number of years"
+82,82,"If AbbVie notifies Harpoon in writing within [***] after receipt of such copy that AbbVie wishes to receive a license or sublicense (as applicable) under, and be subject to the rights and obligations of, the Proposed Future In-Licensed Rights as they apply to AbbVie and this Agreement, then the Proposed Future In-Licensed Rights shall automatically be included in the Harpoon Patents and/or Harpoon Know-How (as applicable) hereunder and AbbVie agrees to abide by all applicable terms and conditions of such license, sublicense or other agreement, as it relates to AbbVie and this Agreement, including payment of any financial obligations based upon AbbVie's practice of such intellectual property rights.","Norm 1:
+1. Norm type: Commitment
+2. Subject: AbbVie
+3. Object: Harpoon
+4. Antecedent: AbbVie notifies Harpoon in writing within [***] after receipt of such copy that AbbVie wishes to receive a license or sublicense (as applicable) under, and be subject to the rights and obligations of, the Proposed Future In-Licensed Rights as they apply to AbbVie and this Agreement
+5. Consequent: Proposed Future In-Licensed Rights shall automatically be included in the Harpoon Patents and/or Harpoon Know-How (as applicable) hereunder and AbbVie agrees to abide by all applicable terms and conditions of such license, sublicense or other agreement, as it relates to AbbVie and this Agreement, including payment of any financial obligations based upon AbbVie's practice of such intellectual property rights.
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Harpoon
+3. Object: AbbVie
+4. Antecedent: AbbVie notifies Harpoon in writing within [***] after receipt of such copy that AbbVie wishes to receive a license or sublicense (as applicable) under, and be subject to the rights and obligations of, the Proposed Future In-Licensed Rights as they apply to AbbVie and this Agreement
+5. Consequent: Proposed Future In-Licensed Rights shall automatically be included in the Harpoon Patents and/or Harpoon Know-How (as applicable) hereunder and AbbVie agrees to abide by all applicable terms and conditions of such license, sublicense or other agreement, as it relates to AbbVie and this Agreement, including payment of any financial obligations based upon AbbVie's practice of such intellectual property rights."
+83,83,"You may not permit the Franchised Business to be operated, managed, directed, or controlled by any other person without our prior written consent.","Norm 1:
+1. Norm type: Prohibition
+2. Subject: You
+3. Object: Franchised Business
+4. Antecedent: Permitting the Franchised Business to be operated, managed, directed, or controlled by any other person
+5. Consequent: Without prior written consent"
+84,84,"Both parties shall have the right to terminate this Agreement at any time, for any or for no reason, upon one hundred twenty (120) days written notice to the other party.","1. Norm type: authorization, power
+2. Subject: Both parties
+3. Object: Each other
+4. Antecedent: One hundred twenty (120) days written notice
+5. Consequent: Termination of the Agreement"
+85,85,You must immediately notify us of any changes in the terms of an offer.,"Norm 1:
+1. Norm type: Commitment
+2. Subject: You
+3. Object: us
+4. Antecedent: any changes in the terms of an offer
+5. Consequent: immediate notification
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: You
+3. Object: us
+4. Antecedent: any changes in the terms of an offer
+5. Consequent: notification"
+86,86,"Distributor agrees not to use in any manner whatsoever the marks, logos, images and copy of Vendor following the expiration or termination of this Agreement, except as may be needed to sell any Products remaining in Distributor's inventory.","Norm 1:
+1. Norm type: Prohibition
+2. Subject: Distributor
+3. Object: Vendor
+4. Antecedent: expiration or termination of this Agreement
+5. Consequent: not to use the marks, logos, images, and copy of Vendor
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Vendor
+3. Object: Distributor
+4. Antecedent: expiration or termination of this Agreement
+5. Consequent: may be needed to sell any Products remaining in Distributor's inventory"
+87,87,"of the data then in RevMed's Control regarding the relevant SHP1-SHP2 Dual Inhibitor. Sanofi shall notify RevMed in writing (a ""Notice of Interest""), within [***] after Sanofi's receipt of such notice, if Sanofi desires to enter into negotiations with RevMed of the terms under which Sanofi would obtain SHP1-SHP2 Dual Inhibitor License Rights.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Sanofi
+3. Object: RevMed
+4. Antecedent: Sanofi desires to enter into negotiations with RevMed of the terms under which Sanofi would obtain SHP1-SHP2 Dual Inhibitor License Rights
+5. Consequent: Sanofi would obtain SHP1-SHP2 Dual Inhibitor License Rights
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Sanofi
+3. Object: RevMed
+4. Antecedent: Sanofi's receipt of the Notice of Interest
+5. Consequent: Sanofi shall notify RevMed in writing if Sanofi desires to enter into negotiations with RevMed of the terms under which Sanofi would obtain SHP1-SHP2 Dual Inhibitor License Rights."
+88,88,"Upon the occurrence of any of the following, WGT may      terminate the Term by giving Distributor written notice of such termination      for:<omitted>WGT giving Distributor ninety (90) days' advance written notice of      termination at any time after the expiration of the Initial Term.","1. Norm type: authorization
+2. Subject: WGT
+3. Object: Distributor
+4. Antecedent: Occurrence of any of the specified events
+5. Consequent: Termination of the Term"
+89,89,"If DIALOG is acquired by a third party, DIALOG's acquirer will have the right, for a period of [***] following closing of such acquisition, to terminate this Agreement upon written notice to ENERGOUS.","Norm 1:
+1. Norm type: Authorization
+2. Subject: DIALOG's acquirer
+3. Object: ENERGOUS
+4. Antecedent: DIALOG is acquired by a third party
+5. Consequent: DIALOG's acquirer will have the right to terminate the Agreement upon written notice to ENERGOUS.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: DIALOG's acquirer
+3. Object: ENERGOUS
+4. Antecedent: DIALOG is acquired by a third party
+5. Consequent: DIALOG's acquirer commits to terminating the Agreement upon written notice to ENERGOUS."
+90,90,"On any termination of this Agreement under Section 5.l (a), (b), or (c) all outstanding stock options granted to the Consultant shall be exercisable in accordance with the terms of the option agreements covering such grants","Norm 1:
+1. Norm type: Commitment
+2. Subject: Consultant
+3. Object: Not specified
+4. Antecedent: Termination of the Agreement under Section 5.1 (a), (b), or (c)
+5. Consequent: All outstanding stock options granted to the Consultant shall be exercisable in accordance with the terms of the option agreements covering such grants
+
+Norm 2:
+1. Norm type: Authorization
+2. Subject: Consultant
+3. Object: Not specified
+4. Antecedent: Termination of the Agreement under Section 5.1 (a), (b), or (c)
+5. Consequent: All outstanding stock options granted to the Consultant shall be exercisable in accordance with the terms of the option agreements covering such grants
+
+Norm 3:
+1. Norm type: Power
+2. Subject: Consultant
+3. Object: Not specified
+4. Antecedent: Termination of the Agreement under Section 5.1 (a), (b), or (c)
+5. Consequent: All outstanding stock options granted to the Consultant shall be exercisable in accordance with the terms of the option agreements covering such grants"
+91,91,"Bioeq may terminate this Agreement immediately upon written notice to Licensee, if Licensee conducts any clinical development of, markets, sells or distributes any Competitive Product in the Territory, whether directly or indirectly through the intermediary of a Third Party or its Affiliates (Restricted Activities); provided, that in the event that Restricted Activities are being or would be deemed to be conducted by Licensee solely in connection with a Competitor Change of Control, Bioeq may not terminate this Agreement in accordance with this Section 15.2.2 and instead may terminate this Agreement in accordance with Section 15.2.9.","1. Norm type: Prohibition
+2. Subject: Bioeq
+3. Object: Licensee
+4. Antecedent: Licensee conducts any clinical development of, markets, sells or distributes any Competitive Product in the Territory, whether directly or indirectly through the intermediary of a Third Party or its Affiliates (Restricted Activities)
+5. Consequent: Bioeq may terminate this Agreement immediately upon written notice to Licensee"
+92,92,"In the event of termination or expiration of this Agreement             pursuant to Section 5.0 above, IBM shall have an option, which             shall expire [*] days after such termination or expiration, to             purchase from MSL, at a reasonable price agreeable to the Parties,             all assets used by MSL to perform the manufacturing and fulfillment             functions<omitted>outlined in Attachment 1: Statement of Work, to the extent owned or             transferable by MSL, and required by IBM to perform such functions.","1. Norm type: Authorization
+2. Subject: IBM
+3. Object: MSL
+4. Antecedent: Termination or expiration of the Agreement
+5. Consequent: IBM has the option to purchase assets from MSL at a reasonable price. 
+
+2. Norm type: Commitment
+2. Subject: MSL
+3. Object: IBM
+4. Antecedent: Termination or expiration of the Agreement
+5. Consequent: MSL commits to selling assets to IBM if IBM chooses to purchase them."
+93,93,"If a Change in Control occurs with respect to Customer, Metavante agrees to continue to provide Services under this Agreement; provided that (a) Metavante's obligation to provide Services shall be limited to the Entities comprising the Customer prior to such Change in Control and (b) Metavante's obligation to provide Services shall be limited in any and all circumstances to the number of accounts processed in the three (3) -month period prior to such Change in Control occurring, plus twenty-five percent (25%).","Norm 1:
+1. Norm type: Commitment
+2. Subject: Metavante
+3. Object: Customer
+4. Antecedent: Change in Control occurs with respect to Customer
+5. Consequent: Metavante agrees to continue to provide Services under this Agreement
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Metavante
+3. Object: Entities comprising the Customer prior to Change in Control
+4. Antecedent: Change in Control occurs with respect to Customer
+5. Consequent: Metavante's obligation to provide Services shall be limited to the Entities comprising the Customer prior to such Change in Control
+
+Norm 3:
+1. Norm type: Commitment
+2. Subject: Metavante
+3. Object: Number of accounts processed in the three (3)-month period prior to Change in Control
+4. Antecedent: Change in Control occurs with respect to Customer
+5. Consequent: Metavante's obligation to provide Services shall be limited to the number of accounts processed in the three (3)-month period prior to such Change in Control occurring, plus twenty-five percent (25%)"
+94,94,"The parties acknowledge and agree that a ""Release Condition"" for purposes of the Escrow Agreement shall be deemed to mean any one or more of the following listed events (in addition to any other event specified as a release condition under the Escrow Agreement):<omitted>(vi) Ehave undergoes a change of control or is a party to a merger or amalgamation;","1. Norm type: authorization
+2. Subject: Ehave
+3. Object: parties to the contract
+4. Antecedent: Ehave undergoes a change of control or is a party to a merger or amalgamation
+5. Consequent: Release Condition is deemed to mean any one or more of the listed events"
+95,95,"Within [***] after receipt of such cessation request, Distributor shall provide Zogenix an estimate of the quantity and shelf life of all Product remaining in Distributor's or its Affiliates' or Sub-distributors' inventory, and Zogenix shall have the right to purchase any such quantities of Product from Distributor at a price mutually agreed by the Parties.","Norm 1:
+1. Norm type: Authorization
+2. Subject: Distributor
+3. Object: Zogenix
+4. Antecedent: Distributor providing an estimate of the quantity and shelf life of all Product remaining in inventory
+5. Consequent: Zogenix having the right to purchase any such quantities of Product from Distributor at a price mutually agreed by the Parties
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: Zogenix
+3. Object: Distributor
+4. Antecedent: Distributor providing an estimate of the quantity and shelf life of all Product remaining in inventory
+5. Consequent: Distributor ensuring Zogenix's right to purchase any such quantities of Product at a price mutually agreed by the Parties"
+96,96,"Except as otherwise provided in Subsection 3(b) below, within [*]     calendar days after termination or expiration of the Agreement (or this     Attachment 6, in the event of termination in part) for any reason,     MSL shall return to IBM all MS Software Image(s) master media and all MS     Software Image documentation which has not been placed in a Product package     prior to such termination or expiration, and MSL shall provide written     notice to IBM signed by a representative certifying that MSL has fulfilled     such requirements.","Norm 1:
+1. Norm type: Commitment
+2. Subject: MSL
+3. Object: IBM
+4. Antecedent: Termination or expiration of the Agreement (or Attachment 6)
+5. Consequent: MSL shall return all MS Software Image(s) master media and documentation to IBM within [*] calendar days and provide written notice certifying fulfillment of requirements.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: MSL
+3. Object: IBM
+4. Antecedent: None
+5. Consequent: MSL shall return all MS Software Image(s) master media and documentation to IBM within [*] calendar days and provide written notice certifying fulfillment of requirements."
+97,97,"ExxonMobil may terminate this Agreement upon fifteen (15) days written notice, without penalty, payment or prejudice to claims and obligations then accrued, if FCE undergoes a Change in Control.","Norm 1:
+1. Norm type: Power
+2. Subject: ExxonMobil
+3. Object: FCE
+4. Antecedent: FCE undergoes a Change in Control
+5. Consequent: ExxonMobil may terminate the Agreement upon fifteen (15) days written notice, without penalty, payment, or prejudice to claims and obligations then accrued. 
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: FCE
+3. Object: ExxonMobil
+4. Antecedent: ExxonMobil terminates the Agreement upon fifteen (15) days written notice
+5. Consequent: FCE ensures no penalty, payment, or prejudice to claims and obligations then accrued."
+98,98,"In the event that MSL owns the tooling and has received a bona fide             third party offer to purchase any or all of the tooling, before MSL             may accept such offer, MSL shall notify IBM in writing, and IBM             shall have [*] Days after such notice to agree to purchase such             tooling on the same terms and conditions as such third party offer.","Norm 1:
+1. Norm type: Authorization
+2. Subject: MSL
+3. Object: IBM
+4. Antecedent: MSL owns the tooling and has received a bona fide third party offer to purchase any or all of the tooling
+5. Consequent: IBM shall have [*] Days after such notice to agree to purchase such tooling on the same terms and conditions as such third party offer.
+
+Norm 2:
+1. Norm type: Commitment
+2. Subject: IBM
+3. Object: MSL
+4. Antecedent: MSL owns the tooling and has received a bona fide third party offer to purchase any or all of the tooling
+5. Consequent: IBM shall agree to purchase such tooling on the same terms and conditions as such third party offer within [*] Days after receiving notice from MSL."
+99,99,"A Termination Event shall have occurred if:<omitted>(c) Supplier either: (i) merges with another entity, (ii) suffers a transfer involving fifty (50%) percent or more of any class of its voting securities or (iii) transfers all, or substantially all, of its assets;","1. Norm type: commitment
+2. Subject: Supplier
+3. Object: Not specified
+4. Antecedent: Supplier either merges with another entity, suffers a transfer involving fifty (50%) percent or more of any class of its voting securities, or transfers all, or substantially all, of its assets
+5. Consequent: A Termination Event shall have occurred"

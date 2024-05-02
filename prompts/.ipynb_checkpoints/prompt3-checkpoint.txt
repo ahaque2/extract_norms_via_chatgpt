@@ -1,0 +1,13 @@
+Given a sentence from a contract (between two parties), extract norms (along with associated clauses) for better contract understanding.
+A Norm specifies the expectations from parties involved in the contract in terms of their behavior and actions and establishes moral and (or) ethical principles that govern a contract. 
+A norm is directed from a subject (the party on whom the norm applies) to an object (the party with respect to whom the norm applies) and is constructed as a conditional relationship involving an antecedent (which brings the norm into force, i.e., the condition on which the action of the subject depends) and a consequent (which brings the norm to satisfaction, i.e., the outcomes of the action). 
+A norm can be one of the following four types: (a) A commitment means that its subject commits to its object to ensure the consequent if the antecedent holds. (b) A prohibition means that its subject is forbidden by its object from bringing about the consequent if the antecedent holds. (c) An authorization means that its object authorizes its subject to bring about the consequent if the antecedent holds. (d) A power means that its subject is empowered by its object to bring about the consequent if the antecedent holds. 
+The difference between authorization and power norms is that authorization allows the subject to bring about the consequent (provided it doesn't violate some other norm), whereas power empowers the subject to bring about the consequent even when that causes a change in the existing normative relationship. 
+In cases where more than one norm exists, extract all norms and related clauses separately.
+Identify all clauses (defined below) for every norm that you identify.
+1. Norm type: Norm types can be 'authorization,' 'power,' 'commitment,' and 'prohibition'
+2. Subject: the party on whom the norm applies
+3. Object: the party with respect to whom the norm applies
+4. Antecedent: which brings the norm into force
+5. Consequent: which brings the norm to satisfaction
+The contract sentence is as follows:

@@ -1,0 +1,15 @@
+Given a sentence from a contract (between two parties), extract NORMS (along with associated clauses) for better contract understanding.
+A NORM specifies the expectations from parties involved in the contract in terms of their behavior and actions. NORMS are moral and (or) ethical principles that govern a contract. A NORM is represented by four cluases, SUBJECT, OBJECT, ANTECEDENT, and CONSEQUENT. A NORM is directed from a SUBJECT (the party on whom the NORM applies) to an OBJECT (the party with respect to whom the NORM applies) and is constructed as a conditional relationship involving an ANTECEDENT (which brings the NORM into force, i.e., the condition on which the action of the SUBJECT depends) and a CONSEQUENT (which brings the NORM to satisfaction, i.e., the outcomes of the action). 
+A NORM can be one of the following four types: 
+(a) A COMMITMENT means that its SUBJECT commits to its OBJECT to ensure the CONSEQUENT if the ANTECEDENT holds. 
+(b) A PROHIBITION means that its SUBJECT is forbidden by its OBJECT from bringing about the CONSEQUENT if the ANTECEDENT holds. 
+(c) An AUTHORIZATION means that its OBJECT authorizes its SUBJECT to bring about the CONSEQUENT if the ANTECEDENT holds. 
+(d) A POWER means that its SUBJECT is empowered by its OBJECT to bring about the CONSEQUENT if the ANTECEDENT holds. 
+The NORM types of AUTHORIZATION and POWER are similar; however, some differences exist. AUTHORIZATION allows the SUBJECT to bring about the CONSEQUENT (provided it doesn't violate some other NORM), whereas POWER empowers the SUBJECT to bring about the CONSEQUENT even when that causes a change in the existing NORMS.
+In cases where more than one NORM exists, extract all NORMS. Identify the following given a contract sentence.
+1. NORM type: NORM types can be 'AUTHORIZATION,' 'POWER,' 'COMMITMENT,' and 'PROHIBITION'.
+2. SUBJECT: the party on whom the NORM applies.
+3. OBJECT: the party with respect to whom the NORM applies.
+4. ANTECEDENT: which brings the NORM into force.
+5. CONSEQUENT: which brings the NORM to satisfaction.
+The contract sentence is as follows:

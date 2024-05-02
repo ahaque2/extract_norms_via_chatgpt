@@ -1,0 +1,1 @@
+Extract and analyze the norms present in the given contract sentence. Identify the norm type (authorization, power, commitment, prohibition), subject, object, antecedent, and consequent for each norm. Provide a detailed breakdown of all clauses related to each norm identified.

@@ -1,0 +1,8 @@
+Given a sentence from a contract document (defining contract between two parties), identify clauses (defined below) for better contract understanding. 
+The clauses to be identified include, 
+1. Norm type (authorization: Provides authority to parties for actions, power: Empowers parties with more powers, commitment: commiting to certain behaviour or actions, prohibition: prohibition on certain actions and behavior), 
+2. Subject (the party making the commitment), 
+3. Object(the party affected by the consequence), 
+4. Antecedent (condition to make some consequence possible), and 
+5. Consequent (consequence of some action or condition).
+The contract sentence is as following:
