@@ -4,7 +4,7 @@ We investigate the effectiveness of ChatGPT in extracting norms from contracts. 
 
 ### To run the code
 
-Use Jupyter Notebook 1_Extract_norms_via_chatgpt.ipynb to extract norms via ChatGPT from contract clauses. The contract clauses are sampled from the Contract Understanding Atticus Dataset \((CUAD)[https://www.atticusprojectai.org/cuad]\)
+Use Jupyter Notebook 1_Extract_norms_via_chatgpt.ipynb to extract norms via ChatGPT from contract clauses. The contract clauses are sampled from the Contract Understanding Atticus Dataset \([CUAD](https://www.atticusprojectai.org/cuad)\)
 You will need an OpenAI (ChatGPT) account to be able to run this code. Just replace the _your_api_key_ in the code with your API key in the code.
 
 We use prompts to extract the norms. Prompts can be found under the 'prompt' folder.
