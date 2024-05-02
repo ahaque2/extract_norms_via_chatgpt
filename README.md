@@ -27,6 +27,6 @@ The results can be found under the 'results' folder.
 - _sample_100_results_analysis.csv_ contains the norms extracted using the prompts contained in the 'prompt' folder.
 - _challenging_examples.csv_ contains some of the challenging examples (identified via keyword-based search) along with extracted norms and the authors' comments for the extracted norms
 
-If you use our work, kindly cite the following paper.
+### If you use our work, kindly cite the following paper.
 
-Amanul Haque, and Munindar P. Singh. *"Extracting Norms from Contracts Via ChatGPT: Opportunities and Challenges."* arXiv preprint arXiv:2404.02269 (2024).
+Amanul Haque, and Munindar P. Singh. *"[Extracting Norms from Contracts Via ChatGPT: Opportunities and Challenges](https://arxiv.org/abs/2404.02269)."* arXiv preprint arXiv:2404.02269 (2024).
